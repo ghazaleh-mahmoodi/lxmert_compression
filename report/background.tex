@@ -1,0 +1,52 @@
+% !TeX root=main.tex
+
+\chapter{پیش‌زمینه}
+\thispagestyle{empty}
+
+\section{ساز و کار توجه
+}\label{attention}
+هدف استفاده از ساز و کار توجه
+\LTRfootnote{\lr{Attention}}
+بازیابی اطلاعات از بردارهای زمینه
+\LTRfootnote{\lr{context vector}}
+\lr{${y_j}$}
+در رابطه با بردار پرس‌وجو
+\LTRfootnote{\lr{query vector}}
+\lr{$x$}
+می‌باشد. ساز و کار توجه ابتدا امتیاز 
+\lr{$\alpha_j$}
+را بین بردار پرس‌وجو 
+\lr{$x$}
+و بردار زمینه
+\lr{$y_j$}
+محاسبه می‌کند.
+\begin{equation}
+	a_j = Score(x, y_j)
+\end{equation}
+\begin{equation}
+	\alpha_j = \frac{exp(a_j)}{\sum_{k} exp(a_k)}
+\end{equation}
+خروجی لایه توجه میانگین وزن‌دار امتیاز 
+\lr{$\alpha_j$}
+به ازای بردار‌های زمینه می‌باشد. محاسبات انجام شده مشابه لایه 
+\lr{softmax}
+است.
+\begin{equation}\label{self}
+	Att_{x \to \{y_j\}} = \sum_{j} \alpha_jy_j
+\end{equation}
+
+
+اگر بردار پرس‌وجو
+\lr{$x$}
+مجموعه‌ای از بردار زمینه
+\lr{$\{y_j\}$}
+باشد، امتیاز به دست آمده از معادله
+\ref{self}
+ توجه به خود\LTRfootnote{\lr{self-attention}}
+  نامیده می‌شود.
+
+\section{
+	\lr{transformer}
+}
+برای نوشتن این قسمت مطمئن نیستم!
+

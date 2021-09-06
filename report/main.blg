@@ -1,0 +1,73 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+A level-1 auxiliary file: intro.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+A level-1 auxiliary file: background.aux
+Reallocating 'name_of_file' (item size: 1) to 17 items.
+A level-1 auxiliary file: relatedworks.aux
+Reallocating 'name_of_file' (item size: 1) to 16 items.
+A level-1 auxiliary file: VQADescribe.aux
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+A level-1 auxiliary file: lxmert.aux
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+A level-1 auxiliary file: method.aux
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+A level-1 auxiliary file: conclusion.aux
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+The style file: acm-fa.bst
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+A level-1 auxiliary file: dicfa2en.aux
+Database file #1: MyReferences.bib
+Too many commas in name 1 of "Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun" for entry ren15fasterrcnn
+while executing---line 1378 of file acm-fa.bst
+-- acm-fa.bst version 0.6 (2011/07/01) 
+-- This is a BibTeX style for XePersian: http://www.parsilatex.com
+Too many commas in name 1 of "Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun" for entry ren15fasterrcnn
+while executing---line 1427 of file acm-fa.bst
+
+Done.
+You've used 11 entries,
+            2725 wiz_defined-function locations,
+            708 strings with 7682 characters,
+and the built_in function-call counts, 5255 in all, are:
+= -- 378
+> -- 352
+< -- 2
++ -- 144
+- -- 132
+* -- 390
+:= -- 760
+add.period$ -- 28
+call.type$ -- 11
+change.case$ -- 99
+chr.to.int$ -- 0
+cite$ -- 11
+duplicate$ -- 144
+empty$ -- 302
+format.name$ -- 132
+if$ -- 1299
+int.to.chr$ -- 0
+int.to.str$ -- 11
+missing$ -- 198
+newline$ -- 100
+num.names$ -- 22
+pop$ -- 139
+preamble$ -- 1
+purify$ -- 88
+quote$ -- 0
+skip$ -- 106
+stack$ -- 0
+substring$ -- 136
+swap$ -- 44
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 4
+type$ -- 44
+warning$ -- 0
+while$ -- 28
+width$ -- 13
+write$ -- 135
+(There were 2 error messages)
