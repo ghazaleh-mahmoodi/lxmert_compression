@@ -1,0 +1,1954 @@
+{
+    "vqa_lxmert_finetuned_seed2/finetune_result.json": {
+        "Epoch 0 Train": 68.3633656912249,
+        "Epoch 0 Valid": 66.88081865045532,
+        "Epoch 0 Best": 66.88081865045532,
+        "Epoch 1 Train": 74.173748924154,
+        "Epoch 1 Valid": 68.61391090251335,
+        "Epoch 1 Best": 68.61391090251335,
+        "Epoch 2 Train": 79.96758403781308,
+        "Epoch 2 Valid": 69.6426098330358,
+        "Epoch 2 Best": 69.6426098330358,
+        "Epoch 3 Train": 84.53174834198836,
+        "Epoch 3 Valid": 70.27044702623417,
+        "Epoch 3 Best": 70.27044702623417
+    },
+    "vqa_lxmert_pruning_seed0/Random-70_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "Score after iteration 9": 7.419404477956408,
+            "Score after iteration 10": 7.4305608986688725,
+            "Score after iteration 11": 2.028545048857432,
+            "accuarcy after pruning": 0.05155035777487113
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 31.4127600870634,
+            "Epoch 0 Valid": 35.533199969223986,
+            "Epoch 0 Best": 35.533199969223986,
+            "Epoch 1 Train": 38.865251480761934,
+            "Epoch 1 Valid": 41.239132107408956,
+            "Epoch 1 Best": 41.239132107408956,
+            "Epoch 2 Train": 43.075181617948225,
+            "Epoch 2 Valid": 44.26021389551349,
+            "Epoch 2 Best": 44.26021389551349,
+            "Epoch 3 Train": 45.37138346070059,
+            "Epoch 3 Valid": 45.313149188273265,
+            "Epoch 3 Best": 45.313149188273265
+        }
+    },
+    "vqa_lxmert_pruning_seed0/High_Magnitude-10_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "Score after iteration 9": 7.419404477956408,
+            "Score after iteration 10": 7.4305608986688725,
+            "Score after iteration 11": 2.028545048857432,
+            "Score after iteration 12": 1.3518504270216223,
+            "Score after iteration 13": 0.20466261444948827,
+            "Score after iteration 14": 9.273293837039306,
+            "Score after iteration 15": 2.33246133723167,
+            "Score after iteration 16": 1.2606755405093506,
+            "Score after iteration 17": 0.8567361698853591,
+            "Score after iteration 18": 16.97660998692031,
+            "Score after iteration 19": 0.0,
+            "Score after iteration 20": 0.0,
+            "Score after iteration 21": 0.0,
+            "accuarcy after pruning": 42.080095406631884
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 63.85208892314197,
+            "Epoch 0 Valid": 65.77479418327076,
+            "Epoch 0 Best": 65.77479418327076,
+            "Epoch 1 Train": 71.68195970226277,
+            "Epoch 1 Valid": 68.06070631683986,
+            "Epoch 1 Best": 68.06070631683986,
+            "Epoch 2 Train": 77.67862792987881,
+            "Epoch 2 Valid": 69.08671231822476,
+            "Epoch 2 Best": 69.08671231822476,
+            "Epoch 3 Train": 82.71898572364248,
+            "Epoch 3 Valid": 69.61644994998584,
+            "Epoch 3 Best": 69.61644994998584
+        }
+    },
+    "vqa_lxmert_pruning_seed0/High_Magnitude-50_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "accuarcy after pruning": 2.046626144494887
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 54.246807446923526,
+            "Epoch 0 Valid": 62.04239439870519,
+            "Epoch 0 Best": 62.04239439870519,
+            "Epoch 1 Train": 66.14950893529152,
+            "Epoch 1 Valid": 65.31007155497207,
+            "Epoch 1 Best": 65.31007155497207,
+            "Epoch 2 Train": 71.50581557225773,
+            "Epoch 2 Valid": 67.13895514349231,
+            "Epoch 2 Best": 67.13895514349231,
+            "Epoch 3 Train": 76.02580937067232,
+            "Epoch 3 Valid": 67.83296145264049,
+            "Epoch 3 Best": 67.83296145264049
+        }
+    },
+    "vqa_lxmert_pruning_seed0/Random-20_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "accuarcy after pruning": 0.008463491574978842
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 43.627091454429106,
+            "Epoch 0 Valid": 51.137954912670736,
+            "Epoch 0 Best": 51.137954912670736,
+            "Epoch 1 Train": 54.81884080893793,
+            "Epoch 1 Valid": 56.8923597753309,
+            "Epoch 1 Best": 56.8923597753309,
+            "Epoch 2 Train": 61.32897534545811,
+            "Epoch 2 Valid": 60.73786258367113,
+            "Epoch 2 Best": 60.73786258367113,
+            "Epoch 3 Train": 66.15178707025825,
+            "Epoch 3 Valid": 62.27860275447979,
+            "Epoch 3 Best": 62.27860275447979
+        }
+    },
+    "vqa_lxmert_pruning_seed0/Low_Magnitude-40_percentage.json": {
+        "pruning_result": {
+            "Initial score": 0.7027044702623416,
+            "Score after iteration 0": 0.6314034007847756,
+            "Score after iteration 1": 0.5429175963683774,
+            "Score after iteration 2": 0.39303300761714066,
+            "Score after iteration 3": 0.29831114872663705,
+            "Score after iteration 4": 0.25663229976148944,
+            "accuarcy after pruning": 0.07527891051781133
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 59.46022439624172,
+            "Epoch 0 Valid": 64.39447564822424,
+            "Epoch 0 Best": 64.39447564822424,
+            "Epoch 1 Train": 69.32038804226191,
+            "Epoch 1 Valid": 66.9227514041679,
+            "Epoch 1 Best": 66.9227514041679,
+            "Epoch 2 Train": 74.90952323691754,
+            "Epoch 2 Valid": 68.18150342386457,
+            "Epoch 2 Best": 68.18150342386457,
+            "Epoch 3 Train": 79.61553308353088,
+            "Epoch 3 Valid": 68.76086789258801,
+            "Epoch 3 Best": 68.76086789258801
+        }
+    },
+    "vqa_lxmert_pruning_seed0/Random-40_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "accuarcy after pruning": 0.042702162037393264
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 39.42098984961691,
+            "Epoch 0 Valid": 46.03062245133393,
+            "Epoch 0 Best": 46.03062245133393,
+            "Epoch 1 Train": 49.06128183056273,
+            "Epoch 1 Valid": 51.16296068323321,
+            "Epoch 1 Best": 51.16296068323321,
+            "Epoch 2 Train": 54.258182301367775,
+            "Epoch 2 Valid": 54.829191351848635,
+            "Epoch 2 Best": 54.829191351848635,
+            "Epoch 3 Train": 58.37549992400389,
+            "Epoch 3 Valid": 56.87120104639345,
+            "Epoch 3 Best": 56.87120104639345
+        }
+    },
+    "vqa_lxmert_pruning_seed0/Low_Magnitude-80_percentage.json": {
+        "pruning_result": {
+            "Initial score": 0.7027044702623416,
+            "Score after iteration 0": 0.6314034007847756,
+            "Score after iteration 1": 0.5429175963683774,
+            "Score after iteration 2": 0.39303300761714066,
+            "Score after iteration 3": 0.29831114872663705,
+            "Score after iteration 4": 0.25663229976148944,
+            "Score after iteration 5": 0.22680233900131247,
+            "Score after iteration 6": 0.18606216819266247,
+            "Score after iteration 7": 0.2351465722859173,
+            "Score after iteration 8": 0.135211971993538,
+            "Score after iteration 9": 0.07419404477956408,
+            "Score after iteration 10": 0.07430560898668873,
+            "Score after iteration 11": 0.020285450488574323,
+            "Score after iteration 12": 0.013518504270216223,
+            "Score after iteration 13": 0.002046626144494883,
+            "Score after iteration 14": 0.09273293837039306,
+            "Score after iteration 15": 0.0233246133723167,
+            "accuarcy after pruning": 0.00253904747249365
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 36.90622943348168,
+            "Epoch 0 Valid": 44.24597984150113,
+            "Epoch 0 Best": 44.24597984150113,
+            "Epoch 1 Train": 46.035776211167324,
+            "Epoch 1 Valid": 47.38824344079295,
+            "Epoch 1 Best": 47.38824344079295,
+            "Epoch 2 Train": 49.37916076034304,
+            "Epoch 2 Valid": 49.6803108409619,
+            "Epoch 2 Best": 49.6803108409619,
+            "Epoch 3 Train": 51.62491140581107,
+            "Epoch 3 Valid": 50.839809186733966,
+            "Epoch 3 Best": 50.839809186733966
+        }
+    },
+    "vqa_lxmert_pruning_seed0/High_Magnitude-30_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "Score after iteration 9": 7.419404477956408,
+            "Score after iteration 10": 7.4305608986688725,
+            "Score after iteration 11": 2.028545048857432,
+            "accuarcy after pruning": 13.793183042240647
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 54.82675099980241,
+            "Epoch 0 Valid": 62.691775025003516,
+            "Epoch 0 Best": 62.691775025003516,
+            "Epoch 1 Train": 66.94815344498527,
+            "Epoch 1 Valid": 66.2248980533945,
+            "Epoch 1 Best": 66.2248980533945,
+            "Epoch 2 Train": 72.73694185687367,
+            "Epoch 2 Valid": 68.08917442486485,
+            "Epoch 2 Best": 68.08917442486485,
+            "Epoch 3 Train": 77.73123069907821,
+            "Epoch 3 Valid": 68.71701161806331,
+            "Epoch 3 Best": 68.71701161806331
+        }
+    },
+    "vqa_lxmert_pruning_seed0/High_Magnitude-90_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "accuarcy after pruning": 0.032699853812418245
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 23.58885359186286,
+            "Epoch 0 Valid": 24.093252288990243,
+            "Epoch 0 Best": 24.093252288990243,
+            "Epoch 1 Train": 24.02484749152287,
+            "Epoch 1 Valid": 24.093252288990243,
+            "Epoch 1 Best": 24.093252288990243,
+            "Epoch 2 Train": 24.078494405915237,
+            "Epoch 2 Valid": 24.63068400400151,
+            "Epoch 2 Best": 24.63068400400151,
+            "Epoch 3 Train": 24.216052624920007,
+            "Epoch 3 Valid": 26.178733553897594,
+            "Epoch 3 Best": 26.178733553897594
+        }
+    },
+    "vqa_lxmert_pruning_seed0/Random-60_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "accuarcy after pruning": 0.005001154112487497
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 34.932573533116006,
+            "Epoch 0 Valid": 40.5639763022233,
+            "Epoch 0 Best": 40.5639763022233,
+            "Epoch 1 Train": 42.943033969489285,
+            "Epoch 1 Valid": 45.03808571208653,
+            "Epoch 1 Best": 45.03808571208653,
+            "Epoch 2 Train": 46.47956955901223,
+            "Epoch 2 Valid": 47.119335231206094,
+            "Epoch 2 Best": 47.119335231206094,
+            "Epoch 3 Train": 48.840334379540565,
+            "Epoch 3 Valid": 48.68046472262702,
+            "Epoch 3 Best": 48.68046472262702
+        }
+    },
+    "vqa_lxmert_pruning_seed0/High_Magnitude-40_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "accuarcy after pruning": 4.77225513580054
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 54.568356705263476,
+            "Epoch 0 Valid": 62.14934215588017,
+            "Epoch 0 Best": 62.14934215588017,
+            "Epoch 1 Train": 66.22522528217483,
+            "Epoch 1 Valid": 65.39316765407168,
+            "Epoch 1 Best": 65.39316765407168,
+            "Epoch 2 Train": 71.80179909374822,
+            "Epoch 2 Valid": 67.07894129414257,
+            "Epoch 2 Best": 67.07894129414257,
+            "Epoch 3 Train": 76.49402938788478,
+            "Epoch 3 Valid": 68.02992998383998,
+            "Epoch 3 Best": 68.02992998383998
+        }
+    },
+    "vqa_lxmert_pruning_seed0/Low_Magnitude-60_percentage.json": {
+        "pruning_result": {
+            "Initial score": 0.7027044702623416,
+            "Score after iteration 0": 0.6314034007847756,
+            "Score after iteration 1": 0.5429175963683774,
+            "Score after iteration 2": 0.39303300761714066,
+            "Score after iteration 3": 0.29831114872663705,
+            "Score after iteration 4": 0.25663229976148944,
+            "Score after iteration 5": 0.22680233900131247,
+            "Score after iteration 6": 0.18606216819266247,
+            "Score after iteration 7": 0.2351465722859173,
+            "Score after iteration 8": 0.135211971993538,
+            "accuarcy after pruning": 0.0007078556589982306
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 44.69276818707511,
+            "Epoch 0 Valid": 51.99969223666844,
+            "Epoch 0 Best": 51.99969223666844,
+            "Epoch 1 Train": 56.91178238743001,
+            "Epoch 1 Valid": 59.439486035236975,
+            "Epoch 1 Best": 59.439486035236975,
+            "Epoch 2 Train": 63.60810699634407,
+            "Epoch 2 Valid": 62.52596753096661,
+            "Epoch 2 Best": 62.52596753096661,
+            "Epoch 3 Train": 67.8235268059924,
+            "Epoch 3 Valid": 63.93052242825057,
+            "Epoch 3 Best": 63.93052242825057
+        }
+    },
+    "vqa_lxmert_pruning_seed0/Low_Magnitude-10_percentage.json": {
+        "pruning_result": {
+            "Initial score": 0.7027044702623416,
+            "Score after iteration 0": 0.6314034007847756,
+            "accuarcy after pruning": 0.5409517580980076
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 68.02988786507355,
+            "Epoch 0 Valid": 66.83234592598065,
+            "Epoch 0 Best": 66.83234592598065,
+            "Epoch 1 Train": 74.18547182700331,
+            "Epoch 1 Valid": 68.39616834653913,
+            "Epoch 1 Best": 68.39616834653913,
+            "Epoch 2 Train": 80.03325444230994,
+            "Epoch 2 Valid": 69.50796337616116,
+            "Epoch 2 Best": 69.50796337616116,
+            "Epoch 3 Train": 84.56604692954569,
+            "Epoch 3 Valid": 69.9842271293351,
+            "Epoch 3 Best": 69.9842271293351
+        }
+    },
+    "vqa_lxmert_pruning_seed0/Random-80_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "Score after iteration 9": 7.419404477956408,
+            "Score after iteration 10": 7.4305608986688725,
+            "Score after iteration 11": 2.028545048857432,
+            "Score after iteration 12": 1.3518504270216223,
+            "Score after iteration 13": 0.20466261444948827,
+            "Score after iteration 14": 9.273293837039306,
+            "Score after iteration 15": 2.33246133723167,
+            "accuarcy after pruning": 0.03231514964991921
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 23.848007264721776,
+            "Epoch 0 Valid": 24.63068400400151,
+            "Epoch 0 Best": 24.63068400400151,
+            "Epoch 1 Train": 24.07113792841779,
+            "Epoch 1 Valid": 24.093252288990243,
+            "Epoch 1 Best": 24.63068400400151,
+            "Epoch 2 Train": 24.0505397914263,
+            "Epoch 2 Valid": 24.63068400400151,
+            "Epoch 2 Best": 24.63068400400151,
+            "Epoch 3 Train": 24.07776666835592,
+            "Epoch 3 Valid": 24.63068400400151,
+            "Epoch 3 Best": 24.63068400400151
+        }
+    },
+    "vqa_lxmert_pruning_seed0/Random-10_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "accuarcy after pruning": 24.329845348927226
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 61.2836024907062,
+            "Epoch 0 Valid": 64.90151573439798,
+            "Epoch 0 Best": 64.90151573439798,
+            "Epoch 1 Train": 70.30031830601938,
+            "Epoch 1 Valid": 67.52789105177884,
+            "Epoch 1 Best": 67.52789105177884,
+            "Epoch 2 Train": 76.43373791317096,
+            "Epoch 2 Valid": 68.90090020773783,
+            "Epoch 2 Best": 68.90090020773783,
+            "Epoch 3 Train": 81.55186870344018,
+            "Epoch 3 Valid": 69.55912902977363,
+            "Epoch 3 Best": 69.55912902977363
+        }
+    },
+    "vqa_lxmert_pruning_seed0/Low_Magnitude-30_percentage.json": {
+        "pruning_result": {
+            "Initial score": 0.7027044702623416,
+            "Score after iteration 0": 0.6314034007847756,
+            "Score after iteration 1": 0.5429175963683774,
+            "Score after iteration 2": 0.39303300761714066,
+            "Score after iteration 3": 0.29831114872663705,
+            "accuarcy after pruning": 0.16573440024621292
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 62.33007327995226,
+            "Epoch 0 Valid": 65.02808340386014,
+            "Epoch 0 Best": 65.02808340386014,
+            "Epoch 1 Train": 71.08532564667605,
+            "Epoch 1 Valid": 67.36208355774177,
+            "Epoch 1 Best": 67.36208355774177,
+            "Epoch 2 Train": 76.84634928865857,
+            "Epoch 2 Valid": 68.59352158190103,
+            "Epoch 2 Best": 68.59352158190103,
+            "Epoch 3 Train": 81.60853731073902,
+            "Epoch 3 Valid": 69.14711087173704,
+            "Epoch 3 Best": 69.14711087173704
+        }
+    },
+    "vqa_lxmert_pruning_seed0/High_Magnitude-80_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "accuarcy after pruning": 0.008078787412479803
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 32.94388827012147,
+            "Epoch 0 Valid": 38.58198045702853,
+            "Epoch 0 Best": 38.58198045702853,
+            "Epoch 1 Train": 40.47524426666468,
+            "Epoch 1 Valid": 42.31207201661874,
+            "Epoch 1 Best": 42.31207201661874,
+            "Epoch 2 Train": 44.33510099728043,
+            "Epoch 2 Valid": 45.59667615603507,
+            "Epoch 2 Best": 45.59667615603507,
+            "Epoch 3 Train": 46.814724345626516,
+            "Epoch 3 Valid": 46.70693236900721,
+            "Epoch 3 Best": 46.70693236900721
+        }
+    },
+    "vqa_lxmert_pruning_seed0/Low_Magnitude-50_percentage.json": {
+        "pruning_result": {
+            "Initial score": 0.7027044702623416,
+            "Score after iteration 0": 0.6314034007847756,
+            "Score after iteration 1": 0.5429175963683774,
+            "Score after iteration 2": 0.39303300761714066,
+            "Score after iteration 3": 0.29831114872663705,
+            "Score after iteration 4": 0.25663229976148944,
+            "Score after iteration 5": 0.22680233900131247,
+            "Score after iteration 6": 0.18606216819266247,
+            "accuarcy after pruning": 0.004181734246364544
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 53.14790791267742,
+            "Epoch 0 Valid": 61.15180426251998,
+            "Epoch 0 Best": 61.15180426251998,
+            "Epoch 1 Train": 65.3044474256471,
+            "Epoch 1 Valid": 64.93883203816056,
+            "Epoch 1 Best": 64.93883203816056,
+            "Epoch 2 Train": 70.53615273623286,
+            "Epoch 2 Valid": 66.69192890666848,
+            "Epoch 2 Best": 66.69192890666848,
+            "Epoch 3 Train": 74.93826887049299,
+            "Epoch 3 Valid": 67.39016696160415,
+            "Epoch 3 Best": 67.39016696160415
+        }
+    },
+    "vqa_lxmert_pruning_seed0/Random-90_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "Score after iteration 9": 7.419404477956408,
+            "Score after iteration 10": 7.4305608986688725,
+            "Score after iteration 11": 2.028545048857432,
+            "Score after iteration 12": 1.3518504270216223,
+            "Score after iteration 13": 0.20466261444948827,
+            "Score after iteration 14": 9.273293837039306,
+            "Score after iteration 15": 2.33246133723167,
+            "Score after iteration 16": 1.2606755405093506,
+            "Score after iteration 17": 0.8567361698853591,
+            "Score after iteration 18": 16.97660998692031,
+            "Score after iteration 19": 0.0,
+            "Score after iteration 20": 0.0,
+            "Score after iteration 21": 0.0,
+            "accuarcy after pruning": 0.0011541124874971148
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 23.72725029109816,
+            "Epoch 0 Valid": 24.63068400400151,
+            "Epoch 0 Best": 24.63068400400151,
+            "Epoch 1 Train": 23.957009694732427,
+            "Epoch 1 Valid": 24.63068400400151,
+            "Epoch 1 Best": 24.63068400400151,
+            "Epoch 2 Train": 24.05636169189728,
+            "Epoch 2 Valid": 24.093252288990243,
+            "Epoch 2 Best": 24.63068400400151,
+            "Epoch 3 Train": 24.044717890955997,
+            "Epoch 3 Valid": 24.093252288990243,
+            "Epoch 3 Best": 24.63068400400151
+        }
+    },
+    "vqa_lxmert_pruning_seed0/Random-50_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "accuarcy after pruning": 0.10848657382472883
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 36.18230458662424,
+            "Epoch 0 Valid": 41.88081865045726,
+            "Epoch 0 Best": 41.88081865045726,
+            "Epoch 1 Train": 44.7832607704787,
+            "Epoch 1 Valid": 47.61868123412983,
+            "Epoch 1 Best": 47.61868123412983,
+            "Epoch 2 Train": 49.671916923963806,
+            "Epoch 2 Valid": 50.84250211587138,
+            "Epoch 2 Best": 50.84250211587138,
+            "Epoch 3 Train": 52.75021515713787,
+            "Epoch 3 Valid": 52.50365468954197,
+            "Epoch 3 Best": 52.50365468954197
+        }
+    },
+    "vqa_lxmert_pruning_seed0/Low_Magnitude-70_percentage.json": {
+        "pruning_result": {
+            "Initial score": 0.7027044702623416,
+            "Score after iteration 0": 0.6314034007847756,
+            "Score after iteration 1": 0.5429175963683774,
+            "Score after iteration 2": 0.39303300761714066,
+            "Score after iteration 3": 0.29831114872663705,
+            "Score after iteration 4": 0.25663229976148944,
+            "Score after iteration 5": 0.22680233900131247,
+            "Score after iteration 6": 0.18606216819266247,
+            "Score after iteration 7": 0.2351465722859173,
+            "Score after iteration 8": 0.135211971993538,
+            "Score after iteration 9": 0.07419404477956408,
+            "Score after iteration 10": 0.07430560898668873,
+            "Score after iteration 11": 0.020285450488574323,
+            "accuarcy after pruning": 0.000130799415249673
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 41.258321520753434,
+            "Epoch 0 Valid": 48.480033853965,
+            "Epoch 0 Best": 48.480033853965,
+            "Epoch 1 Train": 51.21456234491073,
+            "Epoch 1 Valid": 53.17419404477769,
+            "Epoch 1 Best": 53.17419404477769,
+            "Epoch 2 Train": 56.268810433802344,
+            "Epoch 2 Valid": 56.82657536354344,
+            "Epoch 2 Best": 56.82657536354344,
+            "Epoch 3 Train": 60.24165633062435,
+            "Epoch 3 Valid": 58.56620758636401,
+            "Epoch 3 Best": 58.56620758636401
+        }
+    },
+    "vqa_lxmert_pruning_seed0/High_Magnitude-20_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "Score after iteration 9": 7.419404477956408,
+            "Score after iteration 10": 7.4305608986688725,
+            "Score after iteration 11": 2.028545048857432,
+            "Score after iteration 12": 1.3518504270216223,
+            "Score after iteration 13": 0.20466261444948827,
+            "Score after iteration 14": 9.273293837039306,
+            "Score after iteration 15": 2.33246133723167,
+            "accuarcy after pruning": 10.340463183811691
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 59.03547878798123,
+            "Epoch 0 Valid": 64.60221589597376,
+            "Epoch 0 Best": 64.60221589597376,
+            "Epoch 1 Train": 69.24068495918576,
+            "Epoch 1 Valid": 67.2555205047295,
+            "Epoch 1 Best": 67.2555205047295,
+            "Epoch 2 Train": 75.22561446356698,
+            "Epoch 2 Valid": 68.45464337923897,
+            "Epoch 2 Best": 68.45464337923897,
+            "Epoch 3 Train": 80.31681896415738,
+            "Epoch 3 Valid": 69.2994537200868,
+            "Epoch 3 Best": 69.2994537200868
+        }
+    },
+    "vqa_lxmert_pruning_seed0/High_Magnitude-70_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "accuarcy after pruning": 0.0034623374624913436
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 36.49584873181646,
+            "Epoch 0 Valid": 41.7961837347075,
+            "Epoch 0 Best": 41.7961837347075,
+            "Epoch 1 Train": 45.02672062467646,
+            "Epoch 1 Valid": 46.97776409940643,
+            "Epoch 1 Best": 46.97776409940643,
+            "Epoch 2 Train": 49.4949343137278,
+            "Epoch 2 Valid": 50.4358698161099,
+            "Epoch 2 Best": 50.4358698161099,
+            "Epoch 3 Train": 52.63012263954604,
+            "Epoch 3 Valid": 52.54327921827947,
+            "Epoch 3 Best": 52.54327921827947
+        }
+    },
+    "vqa_lxmert_pruning_seed0/Low_Magnitude-90_percentage.json": {
+        "pruning_result": {
+            "Initial score": 0.7027044702623416,
+            "Score after iteration 0": 0.6314034007847756,
+            "Score after iteration 1": 0.5429175963683774,
+            "Score after iteration 2": 0.39303300761714066,
+            "Score after iteration 3": 0.29831114872663705,
+            "Score after iteration 4": 0.25663229976148944,
+            "Score after iteration 5": 0.22680233900131247,
+            "Score after iteration 6": 0.18606216819266247,
+            "Score after iteration 7": 0.2351465722859173,
+            "Score after iteration 8": 0.135211971993538,
+            "Score after iteration 9": 0.07419404477956408,
+            "Score after iteration 10": 0.07430560898668873,
+            "Score after iteration 11": 0.020285450488574323,
+            "Score after iteration 12": 0.013518504270216223,
+            "Score after iteration 13": 0.002046626144494883,
+            "Score after iteration 14": 0.09273293837039306,
+            "Score after iteration 15": 0.0233246133723167,
+            "Score after iteration 16": 0.012606755405093506,
+            "Score after iteration 17": 0.00856736169885359,
+            "Score after iteration 18": 0.1697660998692031,
+            "Score after iteration 19": 0.0,
+            "Score after iteration 20": 0.0,
+            "Score after iteration 21": 0.0,
+            "accuarcy after pruning": 0.0
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 23.760077583154963,
+            "Epoch 0 Valid": 24.63068400400151,
+            "Epoch 0 Best": 24.63068400400151,
+            "Epoch 1 Train": 23.94394205943651,
+            "Epoch 1 Valid": 24.63068400400151,
+            "Epoch 1 Best": 24.63068400400151,
+            "Epoch 2 Train": 24.058608186100663,
+            "Epoch 2 Valid": 24.093252288990243,
+            "Epoch 2 Best": 24.63068400400151,
+            "Epoch 3 Train": 24.041712018430303,
+            "Epoch 3 Valid": 24.093252288990243,
+            "Epoch 3 Best": 24.63068400400151
+        }
+    },
+    "vqa_lxmert_pruning_seed0/Random-30_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "accuarcy after pruning": 0.006155266599984612
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 41.29735040244156,
+            "Epoch 0 Valid": 47.64176348387965,
+            "Epoch 0 Best": 47.64176348387965,
+            "Epoch 1 Train": 51.9431383839931,
+            "Epoch 1 Valid": 53.93821651150083,
+            "Epoch 1 Best": 53.93821651150083,
+            "Epoch 2 Train": 57.77143028901398,
+            "Epoch 2 Valid": 58.164961144877616,
+            "Epoch 2 Best": 58.164961144877616,
+            "Epoch 3 Train": 62.27615741906503,
+            "Epoch 3 Valid": 59.98692005847302,
+            "Epoch 3 Best": 59.98692005847302
+        }
+    },
+    "vqa_lxmert_pruning_seed0/Low_Magnitude-20_percentage.json": {
+        "pruning_result": {
+            "Initial score": 0.7027044702623416,
+            "Score after iteration 0": 0.6314034007847756,
+            "Score after iteration 1": 0.5429175963683774,
+            "Score after iteration 2": 0.39303300761714066,
+            "accuarcy after pruning": 0.23286527660229764
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 64.88047701609142,
+            "Epoch 0 Valid": 65.9844579518327,
+            "Epoch 0 Best": 65.9844579518327,
+            "Epoch 1 Train": 72.6894965321111,
+            "Epoch 1 Valid": 68.02646764637745,
+            "Epoch 1 Best": 68.02646764637745,
+            "Epoch 2 Train": 78.47412418361273,
+            "Epoch 2 Valid": 69.23520812494948,
+            "Epoch 2 Best": 69.23520812494948,
+            "Epoch 3 Train": 83.12520566491813,
+            "Epoch 3 Valid": 69.63414634146098,
+            "Epoch 3 Best": 69.63414634146098
+        }
+    },
+    "vqa_lxmert_pruning_seed0/High_Magnitude-60_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "accuarcy after pruning": 0.35854427944910316
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 39.939866729077586,
+            "Epoch 0 Valid": 47.053935523581266,
+            "Epoch 0 Best": 47.053935523581266,
+            "Epoch 1 Train": 50.43316205128552,
+            "Epoch 1 Valid": 52.33669308301758,
+            "Epoch 1 Best": 52.33669308301758,
+            "Epoch 2 Train": 55.74298840676807,
+            "Epoch 2 Valid": 56.224128645070216,
+            "Epoch 2 Best": 56.224128645070216,
+            "Epoch 3 Train": 59.69025274635943,
+            "Epoch 3 Valid": 58.12649072862776,
+            "Epoch 3 Best": 58.12649072862776
+        }
+    },
+    "vqa_lxmert_pruning_seed2/High_Magnitude-10_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "Score after iteration 9": 7.419404477956408,
+            "Score after iteration 10": 7.4305608986688725,
+            "Score after iteration 11": 2.028545048857432,
+            "Score after iteration 12": 1.3518504270216223,
+            "Score after iteration 13": 0.20466261444948827,
+            "Score after iteration 14": 9.273293837039306,
+            "Score after iteration 15": 2.33246133723167,
+            "Score after iteration 16": 1.2606755405093506,
+            "Score after iteration 17": 0.8567361698853591,
+            "Score after iteration 18": 16.97660998692031,
+            "Score after iteration 19": 0.0,
+            "Score after iteration 20": 0.0,
+            "Score after iteration 21": 0.0,
+            "accuarcy after pruning": 44.44871893513816
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 63.77980559909051,
+            "Epoch 0 Valid": 65.59436793105867,
+            "Epoch 0 Best": 65.59436793105867,
+            "Epoch 1 Train": 71.64125386011237,
+            "Epoch 1 Valid": 68.0133877048526,
+            "Epoch 1 Best": 68.0133877048526,
+            "Epoch 2 Train": 77.6749892420839,
+            "Epoch 2 Valid": 69.28445025774936,
+            "Epoch 2 Best": 69.28445025774936,
+            "Epoch 3 Train": 82.66222219405066,
+            "Epoch 3 Valid": 69.71531891974816,
+            "Epoch 3 Best": 69.71531891974816
+        }
+    },
+    "vqa_lxmert_pruning_seed2/Low_Magnitude-40_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "accuarcy after pruning": 7.527891051781133
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 59.48710322477342,
+            "Epoch 0 Valid": 64.34330999461196,
+            "Epoch 0 Best": 64.34330999461196,
+            "Epoch 1 Train": 69.27109173284047,
+            "Epoch 1 Valid": 66.8611987381679,
+            "Epoch 1 Best": 66.8611987381679,
+            "Epoch 2 Train": 74.91233926486288,
+            "Epoch 2 Valid": 68.10533199968987,
+            "Epoch 2 Best": 68.10533199968987,
+            "Epoch 3 Train": 79.66706006677303,
+            "Epoch 3 Valid": 68.73239978456303,
+            "Epoch 3 Best": 68.73239978456303
+        }
+    },
+    "vqa_lxmert_pruning_seed2/Low_Magnitude-80_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "Score after iteration 9": 7.419404477956408,
+            "Score after iteration 10": 7.4305608986688725,
+            "Score after iteration 11": 2.028545048857432,
+            "Score after iteration 12": 1.3518504270216223,
+            "Score after iteration 13": 0.20466261444948827,
+            "Score after iteration 14": 9.273293837039306,
+            "Score after iteration 15": 2.33246133723167,
+            "accuarcy after pruning": 0.253904747249365
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 36.90857084997559,
+            "Epoch 0 Valid": 43.553127644840394,
+            "Epoch 0 Best": 43.553127644840394,
+            "Epoch 1 Train": 45.78465929221962,
+            "Epoch 1 Valid": 47.075094252518646,
+            "Epoch 1 Best": 47.075094252518646,
+            "Epoch 2 Train": 48.94810281977692,
+            "Epoch 2 Valid": 49.13441563437586,
+            "Epoch 2 Best": 49.13441563437586,
+            "Epoch 3 Train": 51.10701539001715,
+            "Epoch 3 Valid": 50.329691467260176,
+            "Epoch 3 Best": 50.329691467260176
+        }
+    },
+    "vqa_lxmert_pruning_seed2/High_Magnitude-30_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "Score after iteration 9": 7.419404477956408,
+            "Score after iteration 10": 7.4305608986688725,
+            "Score after iteration 11": 2.028545048857432,
+            "accuarcy after pruning": 12.919904593367788
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 55.2662412038205,
+            "Epoch 0 Valid": 62.884896514578195,
+            "Epoch 0 Best": 62.884896514578195,
+            "Epoch 1 Train": 67.05674454507043,
+            "Epoch 1 Valid": 66.31568823574433,
+            "Epoch 1 Best": 66.31568823574433,
+            "Epoch 2 Train": 72.85170290582806,
+            "Epoch 2 Valid": 67.66022928367832,
+            "Epoch 2 Best": 67.66022928367832,
+            "Epoch 3 Train": 77.79104756234192,
+            "Epoch 3 Valid": 68.5862122028135,
+            "Epoch 3 Best": 68.5862122028135
+        }
+    },
+    "vqa_lxmert_pruning_seed2/High_Magnitude-40_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "accuarcy after pruning": 4.609909979225957
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 53.19305928209056,
+            "Epoch 0 Valid": 61.67307840270616,
+            "Epoch 0 Best": 61.67307840270616,
+            "Epoch 1 Train": 65.73879600560943,
+            "Epoch 1 Valid": 64.90036162191055,
+            "Epoch 1 Best": 64.90036162191055,
+            "Epoch 2 Train": 71.2353028653268,
+            "Epoch 2 Valid": 66.73578518119344,
+            "Epoch 2 Best": 66.73578518119344,
+            "Epoch 3 Train": 75.93791132986804,
+            "Epoch 3 Valid": 67.61329537585374,
+            "Epoch 3 Best": 67.61329537585374
+        }
+    },
+    "vqa_lxmert_pruning_seed2/Low_Magnitude-60_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "accuarcy after pruning": 0.07078556589982306
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 44.76666519006181,
+            "Epoch 0 Valid": 51.772332076631535,
+            "Epoch 0 Best": 51.772332076631535,
+            "Epoch 1 Train": 57.49134625114623,
+            "Epoch 1 Valid": 59.928829729935686,
+            "Epoch 1 Best": 59.928829729935686,
+            "Epoch 2 Train": 64.05623512878054,
+            "Epoch 2 Valid": 62.75948295760343,
+            "Epoch 2 Best": 62.75948295760343,
+            "Epoch 3 Train": 68.1242248012343,
+            "Epoch 3 Valid": 63.96245287373791,
+            "Epoch 3 Best": 63.96245287373791
+        }
+    },
+    "vqa_lxmert_pruning_seed2/Low_Magnitude-10_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "accuarcy after pruning": 54.09517580980076
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 68.10690148325642,
+            "Epoch 0 Valid": 66.79618373470566,
+            "Epoch 0 Best": 66.79618373470566,
+            "Epoch 1 Train": 74.18854098105624,
+            "Epoch 1 Valid": 68.36808494267649,
+            "Epoch 1 Best": 68.36808494267649,
+            "Epoch 2 Train": 80.04510390821336,
+            "Epoch 2 Valid": 69.46872355158634,
+            "Epoch 2 Best": 69.46872355158634,
+            "Epoch 3 Train": 84.54641383583844,
+            "Epoch 3 Valid": 69.95114257136022,
+            "Epoch 3 Best": 69.95114257136022
+        }
+    },
+    "vqa_lxmert_pruning_seed2/Low_Magnitude-30_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "accuarcy after pruning": 16.57344002462129
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 62.352395838550834,
+            "Epoch 0 Valid": 65.2912210510095,
+            "Epoch 0 Best": 65.2912210510095,
+            "Epoch 1 Train": 71.07527970428721,
+            "Epoch 1 Valid": 67.55635915980362,
+            "Epoch 1 Best": 67.55635915980362,
+            "Epoch 2 Train": 76.87992013865637,
+            "Epoch 2 Valid": 68.74278679695064,
+            "Epoch 2 Best": 68.74278679695064,
+            "Epoch 3 Train": 81.5821330936594,
+            "Epoch 3 Valid": 69.24020927906192,
+            "Epoch 3 Best": 69.24020927906192
+        }
+    },
+    "vqa_lxmert_pruning_seed2/Low_Magnitude-50_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "accuarcy after pruning": 0.41817342463645435
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 53.27785652807747,
+            "Epoch 0 Valid": 61.503039162881635,
+            "Epoch 0 Best": 61.503039162881635,
+            "Epoch 1 Train": 65.39668025104011,
+            "Epoch 1 Valid": 64.7233977071609,
+            "Epoch 1 Best": 64.7233977071609,
+            "Epoch 2 Train": 70.63577367988717,
+            "Epoch 2 Valid": 66.74578748941829,
+            "Epoch 2 Best": 66.74578748941829,
+            "Epoch 3 Train": 75.03929782811947,
+            "Epoch 3 Valid": 67.30399322920442,
+            "Epoch 3 Best": 67.30399322920442
+        }
+    },
+    "vqa_lxmert_pruning_seed2/Low_Magnitude-70_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "Score after iteration 9": 7.419404477956408,
+            "Score after iteration 10": 7.4305608986688725,
+            "Score after iteration 11": 2.028545048857432,
+            "accuarcy after pruning": 0.0130799415249673
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 41.336521667565954,
+            "Epoch 0 Valid": 48.3711625759779,
+            "Epoch 0 Best": 48.3711625759779,
+            "Epoch 1 Train": 51.429577152787076,
+            "Epoch 1 Valid": 53.07686389166557,
+            "Epoch 1 Best": 53.07686389166557,
+            "Epoch 2 Train": 56.553181795113986,
+            "Epoch 2 Valid": 56.838116488418535,
+            "Epoch 2 Best": 56.838116488418535,
+            "Epoch 3 Train": 60.43869918487537,
+            "Epoch 3 Valid": 58.464260983301806,
+            "Epoch 3 Best": 58.464260983301806
+        }
+    },
+    "vqa_lxmert_pruning_seed2/High_Magnitude-20_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "Score after iteration 9": 7.419404477956408,
+            "Score after iteration 10": 7.4305608986688725,
+            "Score after iteration 11": 2.028545048857432,
+            "Score after iteration 12": 1.3518504270216223,
+            "Score after iteration 13": 0.20466261444948827,
+            "Score after iteration 14": 9.273293837039306,
+            "Score after iteration 15": 2.33246133723167,
+            "accuarcy after pruning": 11.871201046395411
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 58.771325874499745,
+            "Epoch 0 Valid": 64.3794721858868,
+            "Epoch 0 Best": 64.3794721858868,
+            "Epoch 1 Train": 69.1685756593316,
+            "Epoch 1 Valid": 66.7361698853558,
+            "Epoch 1 Best": 66.7361698853558,
+            "Epoch 2 Train": 75.18364299087898,
+            "Epoch 2 Valid": 68.42386704623883,
+            "Epoch 2 Best": 68.42386704623883,
+            "Epoch 3 Train": 80.36549827869226,
+            "Epoch 3 Valid": 69.16096022158702,
+            "Epoch 3 Best": 69.16096022158702
+        }
+    },
+    "vqa_lxmert_pruning_seed2/Low_Magnitude-20_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "accuarcy after pruning": 23.286527660229766
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 64.78498519206431,
+            "Epoch 0 Valid": 66.17873355389459,
+            "Epoch 0 Best": 66.17873355389459,
+            "Epoch 1 Train": 72.60430377658143,
+            "Epoch 1 Valid": 68.08301915826479,
+            "Epoch 1 Best": 68.08301915826479,
+            "Epoch 2 Train": 78.4756112994949,
+            "Epoch 2 Valid": 69.05939832268744,
+            "Epoch 2 Best": 69.05939832268744,
+            "Epoch 3 Train": 83.08427833742317,
+            "Epoch 3 Valid": 69.44487189351146,
+            "Epoch 3 Best": 69.44487189351146
+        }
+    },
+    "vqa_lxmert_pruning_seed1/Random-70_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "Score after iteration 9": 7.419404477956408,
+            "Score after iteration 10": 7.4305608986688725,
+            "Score after iteration 11": 2.028545048857432,
+            "accuarcy after pruning": 0.0
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 32.09512479115806,
+            "Epoch 0 Valid": 36.91159498345786,
+            "Epoch 0 Best": 36.91159498345786,
+            "Epoch 1 Train": 39.33019667895847,
+            "Epoch 1 Valid": 41.492267446333315,
+            "Epoch 1 Best": 41.492267446333315,
+            "Epoch 2 Train": 42.61053700700361,
+            "Epoch 2 Valid": 43.61160267754021,
+            "Epoch 2 Best": 43.61160267754021,
+            "Epoch 3 Train": 44.5024964561966,
+            "Epoch 3 Valid": 44.6179887666376,
+            "Epoch 3 Best": 44.6179887666376
+        }
+    },
+    "vqa_lxmert_pruning_seed1/High_Magnitude-10_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "Score after iteration 9": 7.419404477956408,
+            "Score after iteration 10": 7.4305608986688725,
+            "Score after iteration 11": 2.028545048857432,
+            "Score after iteration 12": 1.3518504270216223,
+            "Score after iteration 13": 0.20466261444948827,
+            "Score after iteration 14": 9.273293837039306,
+            "Score after iteration 15": 2.33246133723167,
+            "Score after iteration 16": 1.2606755405093506,
+            "Score after iteration 17": 0.8567361698853591,
+            "Score after iteration 18": 16.97660998692031,
+            "Score after iteration 19": 0.0,
+            "Score after iteration 20": 0.0,
+            "Score after iteration 21": 0.0,
+            "accuarcy after pruning": 41.74848041855769
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 63.718881309110046,
+            "Epoch 0 Valid": 65.43510040778423,
+            "Epoch 0 Best": 65.43510040778423,
+            "Epoch 1 Train": 71.28502632505341,
+            "Epoch 1 Valid": 67.82872970685307,
+            "Epoch 1 Best": 67.82872970685307,
+            "Epoch 2 Train": 77.42401470657087,
+            "Epoch 2 Valid": 69.33484650303666,
+            "Epoch 2 Best": 69.33484650303666,
+            "Epoch 3 Train": 82.40726092234482,
+            "Epoch 3 Valid": 69.93613910902276,
+            "Epoch 3 Best": 69.93613910902276
+        }
+    },
+    "vqa_lxmert_pruning_seed1/High_Magnitude-50_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "accuarcy after pruning": 0.9402169731476504
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 54.478196349875674,
+            "Epoch 0 Valid": 62.12856813110517,
+            "Epoch 0 Best": 62.12856813110517,
+            "Epoch 1 Train": 66.25854300606447,
+            "Epoch 1 Valid": 65.56859275217136,
+            "Epoch 1 Best": 65.56859275217136,
+            "Epoch 2 Train": 71.61863071426079,
+            "Epoch 2 Valid": 67.27667923366694,
+            "Epoch 2 Best": 67.27667923366694,
+            "Epoch 3 Train": 76.10559155565679,
+            "Epoch 3 Valid": 67.74332538277831,
+            "Epoch 3 Best": 67.74332538277831
+        }
+    },
+    "vqa_lxmert_pruning_seed1/Random-20_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "accuarcy after pruning": 24.62952989151401
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 43.59883625268793,
+            "Epoch 0 Valid": 51.204508732783026,
+            "Epoch 0 Best": 51.204508732783026,
+            "Epoch 1 Train": 54.818761707028244,
+            "Epoch 1 Valid": 56.439947680231995,
+            "Epoch 1 Best": 56.439947680231995,
+            "Epoch 2 Train": 61.38670391833331,
+            "Epoch 2 Valid": 60.372778333459564,
+            "Epoch 2 Best": 60.372778333459564,
+            "Epoch 3 Train": 66.2882853236858,
+            "Epoch 3 Valid": 62.14164807263008,
+            "Epoch 3 Best": 62.14164807263008
+        }
+    },
+    "vqa_lxmert_pruning_seed1/Low_Magnitude-40_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "accuarcy after pruning": 7.527891051781133
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 59.48404989110338,
+            "Epoch 0 Valid": 63.85742863737567,
+            "Epoch 0 Best": 63.85742863737567,
+            "Epoch 1 Train": 69.26424150755818,
+            "Epoch 1 Valid": 66.72385935215594,
+            "Epoch 1 Best": 66.72385935215594,
+            "Epoch 2 Train": 74.91460157944843,
+            "Epoch 2 Valid": 68.22997614833949,
+            "Epoch 2 Best": 68.22997614833949,
+            "Epoch 3 Train": 79.5997285221982,
+            "Epoch 3 Valid": 68.63660844810097,
+            "Epoch 3 Best": 68.63660844810097
+        }
+    },
+    "vqa_lxmert_pruning_seed1/Random-40_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "accuarcy after pruning": 11.493806262983842
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 39.85195286789167,
+            "Epoch 0 Valid": 46.583057628682475,
+            "Epoch 0 Best": 46.583057628682475,
+            "Epoch 1 Train": 49.72924998729766,
+            "Epoch 1 Valid": 52.46056782334213,
+            "Epoch 1 Best": 52.46056782334213,
+            "Epoch 2 Train": 55.343507948104886,
+            "Epoch 2 Valid": 55.65899823035895,
+            "Epoch 2 Best": 55.65899823035895,
+            "Epoch 3 Train": 59.29037677815242,
+            "Epoch 3 Valid": 58.12456720781526,
+            "Epoch 3 Best": 58.12456720781526
+        }
+    },
+    "vqa_lxmert_pruning_seed1/Low_Magnitude-80_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "Score after iteration 9": 7.419404477956408,
+            "Score after iteration 10": 7.4305608986688725,
+            "Score after iteration 11": 2.028545048857432,
+            "Score after iteration 12": 1.3518504270216223,
+            "Score after iteration 13": 0.20466261444948827,
+            "Score after iteration 14": 9.273293837039306,
+            "Score after iteration 15": 2.33246133723167,
+            "accuarcy after pruning": 0.253904747249365
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 36.84052738822219,
+            "Epoch 0 Valid": 43.72278218050256,
+            "Epoch 0 Best": 43.72278218050256,
+            "Epoch 1 Train": 45.80647559860277,
+            "Epoch 1 Valid": 47.60944833422971,
+            "Epoch 1 Best": 47.60944833422971,
+            "Epoch 2 Train": 49.206924264621456,
+            "Epoch 2 Valid": 49.67530968684944,
+            "Epoch 2 Best": 49.67530968684944,
+            "Epoch 3 Train": 51.510450944109444,
+            "Epoch 3 Valid": 50.7317073170716,
+            "Epoch 3 Best": 50.7317073170716
+        }
+    },
+    "vqa_lxmert_pruning_seed1/High_Magnitude-30_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "Score after iteration 9": 7.419404477956408,
+            "Score after iteration 10": 7.4305608986688725,
+            "Score after iteration 11": 2.028545048857432,
+            "accuarcy after pruning": 21.293760098484633
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 55.165544474210115,
+            "Epoch 0 Valid": 62.45941371085429,
+            "Epoch 0 Best": 62.45941371085429,
+            "Epoch 1 Train": 67.04994178093328,
+            "Epoch 1 Valid": 66.35300453950681,
+            "Epoch 1 Best": 66.35300453950681,
+            "Epoch 2 Train": 72.86719105952525,
+            "Epoch 2 Valid": 67.73986304531573,
+            "Epoch 2 Best": 67.73986304531573,
+            "Epoch 3 Train": 77.85719257828654,
+            "Epoch 3 Valid": 68.51273370777622,
+            "Epoch 3 Best": 68.51273370777622
+        }
+    },
+    "vqa_lxmert_pruning_seed1/High_Magnitude-90_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "accuarcy after pruning": 0.0
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 23.913060674330637,
+            "Epoch 0 Valid": 24.093252288990243,
+            "Epoch 0 Best": 24.093252288990243,
+            "Epoch 1 Train": 24.044876094773034,
+            "Epoch 1 Valid": 24.093252288990243,
+            "Epoch 1 Best": 24.093252288990243,
+            "Epoch 2 Train": 24.066439275048975,
+            "Epoch 2 Valid": 24.093252288990243,
+            "Epoch 2 Best": 24.093252288990243,
+            "Epoch 3 Train": 23.994045208325065,
+            "Epoch 3 Valid": 24.63068400400151,
+            "Epoch 3 Best": 24.63068400400151
+        }
+    },
+    "vqa_lxmert_pruning_seed1/Random-60_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "accuarcy after pruning": 0.005001154112487497
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 34.932573533116006,
+            "Epoch 0 Valid": 40.5639763022233,
+            "Epoch 0 Best": 40.5639763022233,
+            "Epoch 1 Train": 42.943033969489285,
+            "Epoch 1 Valid": 45.03808571208653,
+            "Epoch 1 Best": 45.03808571208653,
+            "Epoch 2 Train": 46.47956955901223,
+            "Epoch 2 Valid": 47.119335231206094,
+            "Epoch 2 Best": 47.119335231206094,
+            "Epoch 3 Train": 48.840334379540565,
+            "Epoch 3 Valid": 48.68046472262702,
+            "Epoch 3 Best": 48.68046472262702
+        }
+    },
+    "vqa_lxmert_pruning_seed1/High_Magnitude-40_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "accuarcy after pruning": 4.446026006001371
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 54.4444356552972,
+            "Epoch 0 Valid": 61.83657767176831,
+            "Epoch 0 Best": 61.83657767176831,
+            "Epoch 1 Train": 66.06613552365643,
+            "Epoch 1 Valid": 65.33507732553443,
+            "Epoch 1 Best": 65.33507732553443,
+            "Epoch 2 Train": 71.5739064951551,
+            "Epoch 2 Valid": 67.10125413556732,
+            "Epoch 2 Best": 67.10125413556732,
+            "Epoch 3 Train": 76.24982597574356,
+            "Epoch 3 Valid": 67.99069015926487,
+            "Epoch 3 Best": 67.99069015926487
+        }
+    },
+    "vqa_lxmert_pruning_seed1/Low_Magnitude-60_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "accuarcy after pruning": 0.07078556589982306
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 44.702640105265004,
+            "Epoch 0 Valid": 52.50788643532959,
+            "Epoch 0 Best": 52.50788643532959,
+            "Epoch 1 Train": 57.76826621267026,
+            "Epoch 1 Valid": 60.01307994152298,
+            "Epoch 1 Best": 60.01307994152298,
+            "Epoch 2 Train": 64.08161102105011,
+            "Epoch 2 Valid": 62.537508655841656,
+            "Epoch 2 Best": 62.537508655841656,
+            "Epoch 3 Train": 68.15827026268364,
+            "Epoch 3 Valid": 63.946680003075464,
+            "Epoch 3 Best": 63.946680003075464
+        }
+    },
+    "vqa_lxmert_pruning_seed1/Low_Magnitude-10_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "accuarcy after pruning": 54.09517580980076
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 68.15458411374328,
+            "Epoch 0 Valid": 66.58151881203138,
+            "Epoch 0 Best": 66.58151881203138,
+            "Epoch 1 Train": 74.29441097548796,
+            "Epoch 1 Valid": 68.58890513195114,
+            "Epoch 1 Best": 68.58890513195114,
+            "Epoch 2 Train": 80.12007669715811,
+            "Epoch 2 Valid": 69.49180580133617,
+            "Epoch 2 Best": 69.49180580133617,
+            "Epoch 3 Train": 84.60673695131221,
+            "Epoch 3 Valid": 69.88997460952274,
+            "Epoch 3 Best": 69.88997460952274
+        }
+    },
+    "vqa_lxmert_pruning_seed1/Random-80_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "Score after iteration 9": 7.419404477956408,
+            "Score after iteration 10": 7.4305608986688725,
+            "Score after iteration 11": 2.028545048857432,
+            "Score after iteration 12": 1.3518504270216223,
+            "Score after iteration 13": 0.20466261444948827,
+            "Score after iteration 14": 9.273293837039306,
+            "Score after iteration 15": 2.33246133723167,
+            "accuarcy after pruning": 0.0261598830499346
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 23.95718371893128,
+            "Epoch 0 Valid": 24.63068400400151,
+            "Epoch 0 Best": 24.63068400400151,
+            "Epoch 1 Train": 24.0669613476459,
+            "Epoch 1 Valid": 24.63068400400151,
+            "Epoch 1 Best": 24.63068400400151,
+            "Epoch 2 Train": 24.111748848278452,
+            "Epoch 2 Valid": 24.63068400400151,
+            "Epoch 2 Best": 24.63068400400151,
+            "Epoch 3 Train": 24.043626284617574,
+            "Epoch 3 Valid": 24.093252288990243,
+            "Epoch 3 Best": 24.63068400400151
+        }
+    },
+    "vqa_lxmert_pruning_seed1/Random-10_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "accuarcy after pruning": 26.421866584597105
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 61.43775629012832,
+            "Epoch 0 Valid": 64.77033161498579,
+            "Epoch 0 Best": 64.77033161498579,
+            "Epoch 1 Train": 70.37938857382674,
+            "Epoch 1 Valid": 67.59906132184112,
+            "Epoch 1 Best": 67.59906132184112,
+            "Epoch 2 Train": 76.52059180878119,
+            "Epoch 2 Valid": 68.95245056551256,
+            "Epoch 2 Best": 68.95245056551256,
+            "Epoch 3 Train": 81.62603465291491,
+            "Epoch 3 Valid": 69.60529352927355,
+            "Epoch 3 Best": 69.60529352927355
+        }
+    },
+    "vqa_lxmert_pruning_seed1/Low_Magnitude-30_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "accuarcy after pruning": 16.57344002462129
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 62.243662355028896,
+            "Epoch 0 Valid": 64.25098099561214,
+            "Epoch 0 Best": 64.25098099561214,
+            "Epoch 1 Train": 71.05286222339824,
+            "Epoch 1 Valid": 67.42325151957911,
+            "Epoch 1 Best": 67.42325151957911,
+            "Epoch 2 Train": 76.89208601219512,
+            "Epoch 2 Valid": 68.96553050703768,
+            "Epoch 2 Best": 68.96553050703768,
+            "Epoch 3 Train": 81.54916341816609,
+            "Epoch 3 Valid": 69.33061475724939,
+            "Epoch 3 Best": 69.33061475724939
+        }
+    },
+    "vqa_lxmert_pruning_seed1/High_Magnitude-80_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "accuarcy after pruning": 0.005001154112487497
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 32.5905242241544,
+            "Epoch 0 Valid": 37.819881511117956,
+            "Epoch 0 Best": 37.819881511117956,
+            "Epoch 1 Train": 40.825855566213875,
+            "Epoch 1 Valid": 42.59175194275534,
+            "Epoch 1 Best": 42.59175194275534,
+            "Epoch 2 Train": 44.398287601846334,
+            "Epoch 2 Valid": 45.04039393706142,
+            "Epoch 2 Best": 45.04039393706142,
+            "Epoch 3 Train": 46.51768085856213,
+            "Epoch 3 Valid": 46.39147495575808,
+            "Epoch 3 Best": 46.39147495575808
+        }
+    },
+    "vqa_lxmert_pruning_seed1/Low_Magnitude-50_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "accuarcy after pruning": 0.41817342463645435
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 53.14059889632643,
+            "Epoch 0 Valid": 61.04870354697041,
+            "Epoch 0 Best": 61.04870354697041,
+            "Epoch 1 Train": 65.38690325514051,
+            "Epoch 1 Valid": 65.11387243209754,
+            "Epoch 1 Best": 65.11387243209754,
+            "Epoch 2 Train": 70.62594922284201,
+            "Epoch 2 Valid": 66.78733553896824,
+            "Epoch 2 Best": 66.78733553896824,
+            "Epoch 3 Train": 74.94817242944734,
+            "Epoch 3 Valid": 67.64253289220359,
+            "Epoch 3 Best": 67.64253289220359
+        }
+    },
+    "vqa_lxmert_pruning_seed1/Random-90_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "Score after iteration 9": 7.419404477956408,
+            "Score after iteration 10": 7.4305608986688725,
+            "Score after iteration 11": 2.028545048857432,
+            "Score after iteration 12": 1.3518504270216223,
+            "Score after iteration 13": 0.20466261444948827,
+            "Score after iteration 14": 9.273293837039306,
+            "Score after iteration 15": 2.33246133723167,
+            "Score after iteration 16": 1.2606755405093506,
+            "Score after iteration 17": 0.8567361698853591,
+            "Score after iteration 18": 16.97660998692031,
+            "Score after iteration 19": 0.0,
+            "Score after iteration 20": 0.0,
+            "Score after iteration 21": 0.0,
+            "accuarcy after pruning": 0.009617604062475957
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 23.818106743282197,
+            "Epoch 0 Valid": 24.093252288990243,
+            "Epoch 0 Best": 24.093252288990243,
+            "Epoch 1 Train": 24.00633764491682,
+            "Epoch 1 Valid": 24.093252288990243,
+            "Epoch 1 Best": 24.093252288990243,
+            "Epoch 2 Train": 24.02527464182911,
+            "Epoch 2 Valid": 24.093252288990243,
+            "Epoch 2 Best": 24.093252288990243,
+            "Epoch 3 Train": 24.00750835316385,
+            "Epoch 3 Valid": 24.63068400400151,
+            "Epoch 3 Best": 24.63068400400151
+        }
+    },
+    "vqa_lxmert_pruning_seed1/Random-50_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "accuarcy after pruning": 0.1107947987997231
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 36.67933351893765,
+            "Epoch 0 Valid": 42.128183426944084,
+            "Epoch 0 Best": 42.128183426944084,
+            "Epoch 1 Train": 45.20148838147252,
+            "Epoch 1 Valid": 47.242055859043326,
+            "Epoch 1 Best": 47.242055859043326,
+            "Epoch 2 Train": 49.69352756538548,
+            "Epoch 2 Valid": 50.91136416095866,
+            "Epoch 2 Best": 50.91136416095866,
+            "Epoch 3 Train": 53.045550042978306,
+            "Epoch 3 Valid": 52.774486419941425,
+            "Epoch 3 Best": 52.774486419941425
+        }
+    },
+    "vqa_lxmert_pruning_seed1/Low_Magnitude-70_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "Score after iteration 9": 7.419404477956408,
+            "Score after iteration 10": 7.4305608986688725,
+            "Score after iteration 11": 2.028545048857432,
+            "accuarcy after pruning": 0.0130799415249673
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 41.2416310180446,
+            "Epoch 0 Valid": 48.32268985150294,
+            "Epoch 0 Best": 48.32268985150294,
+            "Epoch 1 Train": 51.10304447420685,
+            "Epoch 1 Valid": 53.03108409632819,
+            "Epoch 1 Best": 53.03108409632819,
+            "Epoch 2 Train": 56.10775894795118,
+            "Epoch 2 Valid": 56.548434254056716,
+            "Epoch 2 Best": 56.548434254056716,
+            "Epoch 3 Train": 60.119206576155335,
+            "Epoch 3 Valid": 58.481187966451785,
+            "Epoch 3 Best": 58.481187966451785
+        }
+    },
+    "vqa_lxmert_pruning_seed1/High_Magnitude-20_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "Score after iteration 9": 7.419404477956408,
+            "Score after iteration 10": 7.4305608986688725,
+            "Score after iteration 11": 2.028545048857432,
+            "Score after iteration 12": 1.3518504270216223,
+            "Score after iteration 13": 0.20466261444948827,
+            "Score after iteration 14": 9.273293837039306,
+            "Score after iteration 15": 2.33246133723167,
+            "accuarcy after pruning": 23.421943525429423
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 58.989172530702575,
+            "Epoch 0 Valid": 64.2063553127623,
+            "Epoch 0 Best": 64.2063553127623,
+            "Epoch 1 Train": 69.27673960911272,
+            "Epoch 1 Valid": 66.96930060783018,
+            "Epoch 1 Best": 66.96930060783018,
+            "Epoch 2 Train": 75.3027230040417,
+            "Epoch 2 Valid": 68.73470800953814,
+            "Epoch 2 Best": 68.73470800953814,
+            "Epoch 3 Train": 80.4501215004814,
+            "Epoch 3 Valid": 69.07286296837488,
+            "Epoch 3 Best": 69.07286296837488
+        }
+    },
+    "vqa_lxmert_pruning_seed1/High_Magnitude-70_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "accuarcy after pruning": 0.005001154112487497
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 36.232534298565874,
+            "Epoch 0 Valid": 42.209356005231456,
+            "Epoch 0 Best": 42.209356005231456,
+            "Epoch 1 Train": 45.26448514145843,
+            "Epoch 1 Valid": 47.21705008848077,
+            "Epoch 1 Best": 47.21705008848077,
+            "Epoch 2 Train": 49.61969384392638,
+            "Epoch 2 Valid": 50.12810648611069,
+            "Epoch 2 Best": 50.12810648611069,
+            "Epoch 3 Train": 52.513304940968744,
+            "Epoch 3 Valid": 52.018158036468364,
+            "Epoch 3 Best": 52.018158036468364
+        }
+    },
+    "vqa_lxmert_pruning_seed1/Low_Magnitude-90_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "Score after iteration 5": 22.680233900131245,
+            "Score after iteration 6": 18.606216819266248,
+            "Score after iteration 7": 23.51465722859173,
+            "Score after iteration 8": 13.521197199353798,
+            "Score after iteration 9": 7.419404477956408,
+            "Score after iteration 10": 7.4305608986688725,
+            "Score after iteration 11": 2.028545048857432,
+            "Score after iteration 12": 1.3518504270216223,
+            "Score after iteration 13": 0.20466261444948827,
+            "Score after iteration 14": 9.273293837039306,
+            "Score after iteration 15": 2.33246133723167,
+            "Score after iteration 16": 1.2606755405093506,
+            "Score after iteration 17": 0.8567361698853591,
+            "Score after iteration 18": 16.97660998692031,
+            "Score after iteration 19": 0.0,
+            "Score after iteration 20": 0.0,
+            "Score after iteration 21": 0.0,
+            "accuarcy after pruning": 0.0
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 23.793078899410435,
+            "Epoch 0 Valid": 24.093252288990243,
+            "Epoch 0 Best": 24.093252288990243,
+            "Epoch 1 Train": 24.01037184225385,
+            "Epoch 1 Valid": 24.093252288990243,
+            "Epoch 1 Best": 24.093252288990243,
+            "Epoch 2 Train": 30.508277223703196,
+            "Epoch 2 Valid": 31.662691390321612,
+            "Epoch 2 Best": 31.662691390321612,
+            "Epoch 3 Train": 32.04090834302373,
+            "Epoch 3 Valid": 32.14818804339535,
+            "Epoch 3 Best": 32.14818804339535
+        }
+    },
+    "vqa_lxmert_pruning_seed1/Random-30_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "accuarcy after pruning": 19.032469031315266
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 41.74320039990917,
+            "Epoch 0 Valid": 47.27052396706821,
+            "Epoch 0 Best": 47.27052396706821,
+            "Epoch 1 Train": 52.12752493287059,
+            "Epoch 1 Valid": 53.551204124026896,
+            "Epoch 1 Best": 53.551204124026896,
+            "Epoch 2 Train": 58.24876284609268,
+            "Epoch 2 Valid": 58.137647149340154,
+            "Epoch 2 Best": 58.137647149340154,
+            "Epoch 3 Train": 62.96529324653495,
+            "Epoch 3 Valid": 60.483573132259274,
+            "Epoch 3 Best": 60.483573132259274
+        }
+    },
+    "vqa_lxmert_pruning_seed1/Low_Magnitude-20_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "accuarcy after pruning": 23.286527660229766
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 64.82863362521421,
+            "Epoch 0 Valid": 65.93252288989537,
+            "Epoch 0 Best": 65.93252288989537,
+            "Epoch 1 Train": 72.676887687885,
+            "Epoch 1 Valid": 68.0649380626273,
+            "Epoch 1 Best": 68.0649380626273,
+            "Epoch 2 Train": 78.47058041810993,
+            "Epoch 2 Valid": 69.02246672308743,
+            "Epoch 2 Best": 69.02246672308743,
+            "Epoch 3 Train": 83.06524641822044,
+            "Epoch 3 Valid": 69.71493421558567,
+            "Epoch 3 Best": 69.71493421558567
+        }
+    },
+    "vqa_lxmert_pruning_seed1/High_Magnitude-60_percentage.json": {
+        "pruning_result": {
+            "Initial score": 70.27044702623417,
+            "Score after iteration 0": 63.140340078477564,
+            "Score after iteration 1": 54.291759636837746,
+            "Score after iteration 2": 39.30330076171407,
+            "Score after iteration 3": 29.831114872663704,
+            "Score after iteration 4": 25.663229976148944,
+            "accuarcy after pruning": 1.2787566361468055
+        },
+        "retrain_result": {
+            "Epoch 0 Train": 40.57625740391099,
+            "Epoch 0 Valid": 48.24344079402832,
+            "Epoch 0 Best": 48.24344079402832,
+            "Epoch 1 Train": 51.57303637417285,
+            "Epoch 1 Valid": 53.98861275678812,
+            "Epoch 1 Best": 53.98861275678812,
+            "Epoch 2 Train": 57.1228262794959,
+            "Epoch 2 Valid": 57.53481572670409,
+            "Epoch 2 Best": 57.53481572670409,
+            "Epoch 3 Train": 61.188521996598396,
+            "Epoch 3 Valid": 59.403708548124534,
+            "Epoch 3 Best": 59.403708548124534
+        }
+    },
+    "vqa_lxmert_finetuned_seed1/finetune_result.json": {
+        "Epoch 0 Train": 68.3633656912249,
+        "Epoch 0 Valid": 66.88081865045532,
+        "Epoch 0 Best": 66.88081865045532,
+        "Epoch 1 Train": 74.173748924154,
+        "Epoch 1 Valid": 68.61391090251335,
+        "Epoch 1 Best": 68.61391090251335,
+        "Epoch 2 Train": 79.96758403781308,
+        "Epoch 2 Valid": 69.6426098330358,
+        "Epoch 2 Best": 69.6426098330358,
+        "Epoch 3 Train": 84.53174834198836,
+        "Epoch 3 Valid": 70.27044702623417,
+        "Epoch 3 Best": 70.27044702623417
+    },
+    "vqa_lxmert_finetuned_seed0/finetune_result.json": {
+        "Epoch 0 Train": 68.3633656912249,
+        "Epoch 0 Valid": 66.88081865045532,
+        "Epoch 0 Best": 66.88081865045532,
+        "Epoch 1 Train": 74.173748924154,
+        "Epoch 1 Valid": 68.61391090251335,
+        "Epoch 1 Best": 68.61391090251335,
+        "Epoch 2 Train": 79.96758403781308,
+        "Epoch 2 Valid": 69.6426098330358,
+        "Epoch 2 Best": 69.6426098330358,
+        "Epoch 3 Train": 84.53174834198836,
+        "Epoch 3 Valid": 70.27044702623417,
+        "Epoch 3 Best": 70.27044702623417
+    }
+}

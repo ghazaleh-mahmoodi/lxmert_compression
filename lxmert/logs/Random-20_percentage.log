@@ -1,0 +1,8 @@
+============ Start pruning ============
+Pruning models/vqa_lxmert_finetuned_seed0/BEST.pth
+Initial score: 0.25292968749999994
+save mask in models/vqa_lxmert_pruning_seed0/Random-20_percentage_mask.npz.
+convert mask to random pruning.
+Reset to initial weights based on the mask.
+accuarcy is 0.0005859375
+============ End of pruning ============

@@ -1,0 +1,32 @@
+============ Start pruning ============
+Pruning models/vqa_lxmert_finetuned_seed0/BEST.pth
+Initial score: 0.24921875
+Score after iteration 0: 0.0
+Score after iteration 1: 0.0
+Score after iteration 2: 0.003125
+convert mask to low magnitude pruning.
+Reset to initial weights based on the mask.
+accuarcy is 0.2576171874999999
+============ End of pruning ============
+============ Start pruning ============
+Pruning models/vqa_lxmert_finetuned_seed0/BEST.pth
+Initial score: 0.25292968749999994
+Score after iteration 0: 0.25292968749999994
+Score after iteration 1: 0.0
+Score after iteration 2: 0.0
+convert mask to low magnitude pruning.
+save mask in models/vqa_lxmert_pruning_seed0/Low_Magnitude-20_percentage_mask.npz.
+Reset to initial weights based on the mask.
+accuarcy is 0.25292968749999994
+============ End of pruning ============
+============ Start pruning ============
+Pruning models/vqa_lxmert_finetuned_seed0/BEST.pth
+Initial score: 0.25292968749999994
+Score after iteration 0: 0.25292968749999994
+Score after iteration 1: 0.0
+Score after iteration 2: 0.0
+convert mask to low magnitude pruning.
+save mask in models/vqa_lxmert_pruning_seed0/Low_Magnitude-20_percentage_mask.npz.
+Reset to initial weights based on the mask.
+accuarcy is 0.25292968749999994
+============ End of pruning ============

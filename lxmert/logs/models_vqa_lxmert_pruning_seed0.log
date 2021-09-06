@@ -1,0 +1,837 @@
+
+Epoch 0: Train 28.60
+Epoch 0: Valid 34.83
+Epoch 0: Best 34.83
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 39.49
+Epoch 1: Valid 39.91
+Epoch 1: Best 39.91
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 54.09
+Epoch 2: Valid 41.94
+Epoch 2: Best 41.94
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 65.78
+Epoch 3: Valid 45.99
+Epoch 3: Best 45.99
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 43.49
+Epoch 0: Valid 51.90
+Epoch 0: Best 51.90
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 69.11
+Epoch 1: Valid 55.82
+Epoch 1: Best 55.82
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 83.13
+Epoch 2: Valid 57.21
+Epoch 2: Best 57.21
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 88.38
+Epoch 3: Valid 57.93
+Epoch 3: Best 57.93
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 28.60
+Epoch 0: Valid 34.83
+Epoch 0: Best 34.83
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 39.49
+Epoch 1: Valid 39.91
+Epoch 1: Best 39.91
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 54.09
+Epoch 2: Valid 41.94
+Epoch 2: Best 41.94
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 65.78
+Epoch 3: Valid 45.99
+Epoch 3: Best 45.99
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 23.41
+Epoch 0: Valid 27.96
+Epoch 0: Best 27.96
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 26.90
+Epoch 1: Valid 26.57
+Epoch 1: Best 27.96
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 27.53
+Epoch 2: Valid 27.52
+Epoch 2: Best 27.96
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 27.78
+Epoch 3: Valid 28.04
+Epoch 3: Best 28.04
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 22.32
+Epoch 0: Valid 24.75
+Epoch 0: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 23.21
+Epoch 1: Valid 24.75
+Epoch 1: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 22.85
+Epoch 2: Valid 24.75
+Epoch 2: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 23.20
+Epoch 3: Valid 24.75
+Epoch 3: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 23.21
+Epoch 0: Valid 24.75
+Epoch 0: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 23.59
+Epoch 1: Valid 24.75
+Epoch 1: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 24.38
+Epoch 2: Valid 26.75
+Epoch 2: Best 26.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 25.84
+Epoch 3: Valid 27.15
+Epoch 3: Best 27.15
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 22.83
+Epoch 0: Valid 24.75
+Epoch 0: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 22.86
+Epoch 1: Valid 24.75
+Epoch 1: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 24.14
+Epoch 2: Valid 24.75
+Epoch 2: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 23.37
+Epoch 3: Valid 24.75
+Epoch 3: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 22.85
+Epoch 0: Valid 24.75
+Epoch 0: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 23.03
+Epoch 1: Valid 24.75
+Epoch 1: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 23.25
+Epoch 2: Valid 24.32
+Epoch 2: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 23.37
+Epoch 3: Valid 24.75
+Epoch 3: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 21.87
+Epoch 0: Valid 24.32
+Epoch 0: Best 24.32
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 22.97
+Epoch 1: Valid 24.75
+Epoch 1: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 23.18
+Epoch 2: Valid 24.75
+Epoch 2: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 23.47
+Epoch 3: Valid 24.75
+Epoch 3: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 22.01
+Epoch 0: Valid 24.75
+Epoch 0: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 23.35
+Epoch 1: Valid 24.32
+Epoch 1: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 23.19
+Epoch 2: Valid 24.75
+Epoch 2: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 23.34
+Epoch 3: Valid 24.75
+Epoch 3: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 20.74
+Epoch 0: Valid 24.75
+Epoch 0: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 23.65
+Epoch 1: Valid 24.75
+Epoch 1: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 23.30
+Epoch 2: Valid 24.75
+Epoch 2: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 23.81
+Epoch 3: Valid 24.75
+Epoch 3: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 43.49
+Epoch 0: Valid 51.90
+Epoch 0: Best 51.90
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 69.11
+Epoch 1: Valid 55.82
+Epoch 1: Best 55.82
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 83.13
+Epoch 2: Valid 57.21
+Epoch 2: Best 57.21
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 88.38
+Epoch 3: Valid 57.93
+Epoch 3: Best 57.93
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 33.14
+Epoch 0: Valid 36.62
+Epoch 0: Best 36.62
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 46.50
+Epoch 1: Valid 37.54
+Epoch 1: Best 37.54
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 58.55
+Epoch 2: Valid 37.74
+Epoch 2: Best 37.74
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 67.21
+Epoch 3: Valid 38.41
+Epoch 3: Best 38.41
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 33.02
+Epoch 0: Valid 36.22
+Epoch 0: Best 36.22
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 45.03
+Epoch 1: Valid 37.47
+Epoch 1: Best 37.47
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 56.50
+Epoch 2: Valid 37.95
+Epoch 2: Best 37.95
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 65.91
+Epoch 3: Valid 38.40
+Epoch 3: Best 38.40
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 32.38
+Epoch 0: Valid 36.74
+Epoch 0: Best 36.74
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 42.85
+Epoch 1: Valid 38.57
+Epoch 1: Best 38.57
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 55.76
+Epoch 2: Valid 38.82
+Epoch 2: Best 38.82
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 65.56
+Epoch 3: Valid 39.10
+Epoch 3: Best 39.10
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 28.69
+Epoch 0: Valid 33.19
+Epoch 0: Best 33.19
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 35.21
+Epoch 1: Valid 34.88
+Epoch 1: Best 34.88
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 41.83
+Epoch 2: Valid 35.02
+Epoch 2: Best 35.02
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 47.39
+Epoch 3: Valid 35.73
+Epoch 3: Best 35.73
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 25.47
+Epoch 0: Valid 28.38
+Epoch 0: Best 28.38
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 29.45
+Epoch 1: Valid 30.45
+Epoch 1: Best 30.45
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 30.54
+Epoch 2: Valid 30.95
+Epoch 2: Best 30.95
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 30.79
+Epoch 3: Valid 30.60
+Epoch 3: Best 30.95
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 25.23
+Epoch 0: Valid 30.65
+Epoch 0: Best 30.65
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 30.26
+Epoch 1: Valid 30.63
+Epoch 1: Best 30.65
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 30.77
+Epoch 2: Valid 30.82
+Epoch 2: Best 30.82
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 31.39
+Epoch 3: Valid 31.27
+Epoch 3: Best 31.27
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 21.34
+Epoch 0: Valid 24.75
+Epoch 0: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 25.43
+Epoch 1: Valid 29.35
+Epoch 1: Best 29.35
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 29.82
+Epoch 2: Valid 30.10
+Epoch 2: Best 30.10
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 29.97
+Epoch 3: Valid 30.21
+Epoch 3: Best 30.21
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 20.66
+Epoch 0: Valid 24.75
+Epoch 0: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 23.37
+Epoch 1: Valid 24.75
+Epoch 1: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 23.81
+Epoch 2: Valid 24.75
+Epoch 2: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 23.81
+Epoch 3: Valid 24.75
+Epoch 3: Best 24.75
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 26.62
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 27.03
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 19.14
+Epoch 0: Valid 24.92
+Epoch 0: Best 24.92
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 24.96
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 25.78
+Epoch 1: Valid 25.29
+Epoch 1: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 27.83
+Epoch 2: Valid 25.29
+Epoch 2: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 27.17
+Epoch 3: Valid 25.29
+Epoch 3: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 26.62
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 24.71
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 23.07
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 22.27
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 20.57
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 26.39
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 23.54
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 20.78
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 22.13
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 20.55
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 20.21
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 21.07
+Epoch 0: Valid 24.92
+Epoch 0: Best 24.92
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 19.20
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 16.97
+Epoch 0: Valid 24.92
+Epoch 0: Best 24.92
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 25.20
+Epoch 0: Valid 0.20
+Epoch 0: Best 0.20
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 25.14
+Epoch 1: Valid 27.68
+Epoch 1: Best 27.68
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 31.48
+Epoch 2: Valid 28.09
+Epoch 2: Best 28.09
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 31.76
+Epoch 3: Valid 26.80
+Epoch 3: Best 28.09
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 18.54
+Epoch 0: Valid 25.92
+Epoch 0: Best 25.92
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 32.15
+Epoch 1: Valid 32.09
+Epoch 1: Best 32.09
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 46.13
+Epoch 2: Valid 34.59
+Epoch 2: Best 34.59
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 55.92
+Epoch 3: Valid 35.96
+Epoch 3: Best 35.96
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 20.18
+Epoch 0: Valid 26.74
+Epoch 0: Best 26.74
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 32.93
+Epoch 1: Valid 29.47
+Epoch 1: Best 29.47
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 34.34
+Epoch 2: Valid 30.31
+Epoch 2: Best 30.31
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 42.38
+Epoch 3: Valid 31.00
+Epoch 3: Best 31.00
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 23.16
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 26.45
+Epoch 1: Valid 18.75
+Epoch 1: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 28.09
+Epoch 2: Valid 26.91
+Epoch 2: Best 26.91
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 31.48
+Epoch 3: Valid 26.58
+Epoch 3: Best 26.91
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 20.08
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 27.97
+Epoch 1: Valid 25.29
+Epoch 1: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 27.83
+Epoch 2: Valid 25.29
+Epoch 2: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 27.71
+Epoch 3: Valid 25.29
+Epoch 3: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 22.09
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 26.91
+Epoch 1: Valid 25.29
+Epoch 1: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 27.83
+Epoch 2: Valid 25.29
+Epoch 2: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 26.78
+Epoch 3: Valid 25.29
+Epoch 3: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 20.21
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 25.00
+Epoch 1: Valid 24.92
+Epoch 1: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 27.64
+Epoch 2: Valid 25.29
+Epoch 2: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 27.83
+Epoch 3: Valid 25.29
+Epoch 3: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 17.99
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 24.88
+Epoch 1: Valid 25.29
+Epoch 1: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 27.83
+Epoch 2: Valid 25.29
+Epoch 2: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 27.83
+Epoch 3: Valid 25.29
+Epoch 3: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 14.20
+Epoch 0: Valid 24.92
+Epoch 0: Best 24.92
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 25.49
+Epoch 1: Valid 25.29
+Epoch 1: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 25.41
+Epoch 2: Valid 25.29
+Epoch 2: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 27.83
+Epoch 3: Valid 25.29
+Epoch 3: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 27.32
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 25.61
+Epoch 1: Valid 25.29
+Epoch 1: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 28.30
+Epoch 2: Valid 24.92
+Epoch 2: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 27.17
+Epoch 3: Valid 25.29
+Epoch 3: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 21.45
+Epoch 0: Valid 24.92
+Epoch 0: Best 24.92
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 26.91
+Epoch 1: Valid 24.92
+Epoch 1: Best 24.92
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 27.21
+Epoch 2: Valid 25.29
+Epoch 2: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 25.45
+Epoch 3: Valid 24.92
+Epoch 3: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 24.22
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 25.82
+Epoch 1: Valid 24.92
+Epoch 1: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 27.85
+Epoch 2: Valid 25.29
+Epoch 2: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 27.83
+Epoch 3: Valid 25.29
+Epoch 3: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 22.48
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 27.13
+Epoch 1: Valid 25.29
+Epoch 1: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 28.03
+Epoch 2: Valid 25.29
+Epoch 2: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 27.83
+Epoch 3: Valid 25.29
+Epoch 3: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 22.97
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 24.18
+Epoch 1: Valid 25.29
+Epoch 1: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 27.23
+Epoch 2: Valid 24.92
+Epoch 2: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 25.53
+Epoch 3: Valid 25.29
+Epoch 3: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 23.26
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 26.87
+Epoch 1: Valid 25.29
+Epoch 1: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 25.06
+Epoch 2: Valid 24.92
+Epoch 2: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 27.27
+Epoch 3: Valid 25.29
+Epoch 3: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 22.13
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 26.09
+Epoch 1: Valid 25.29
+Epoch 1: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 27.83
+Epoch 2: Valid 25.29
+Epoch 2: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 27.83
+Epoch 3: Valid 25.29
+Epoch 3: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 19.71
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 25.88
+Epoch 1: Valid 25.29
+Epoch 1: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 27.83
+Epoch 2: Valid 25.29
+Epoch 2: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 27.83
+Epoch 3: Valid 25.29
+Epoch 3: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 5.96
+Epoch 0: Valid 0.00
+Epoch 0: Best 0.00
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 24.96
+Epoch 1: Valid 24.92
+Epoch 1: Best 24.92
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 26.91
+Epoch 2: Valid 25.29
+Epoch 2: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 27.83
+Epoch 3: Valid 25.29
+Epoch 3: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 0.25
+Epoch 0: Valid 0.00
+Epoch 0: Best 0.00
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 24.30
+Epoch 1: Valid 25.29
+Epoch 1: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 27.83
+Epoch 2: Valid 25.29
+Epoch 2: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 27.83
+Epoch 3: Valid 25.29
+Epoch 3: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 17.66
+Epoch 0: Valid 24.92
+Epoch 0: Best 24.92
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 25.61
+Epoch 1: Valid 24.92
+Epoch 1: Best 24.92
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 27.58
+Epoch 2: Valid 25.29
+Epoch 2: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 27.83
+Epoch 3: Valid 25.29
+Epoch 3: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 20.76
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 27.83
+Epoch 1: Valid 25.29
+Epoch 1: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 26.52
+Epoch 2: Valid 25.29
+Epoch 2: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 27.83
+Epoch 3: Valid 25.29
+Epoch 3: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 22.44
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 26.46
+Epoch 1: Valid 25.29
+Epoch 1: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 27.75
+Epoch 2: Valid 25.29
+Epoch 2: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 27.83
+Epoch 3: Valid 25.29
+Epoch 3: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 20.96
+Epoch 0: Valid 24.92
+Epoch 0: Best 24.92
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 27.27
+Epoch 1: Valid 25.29
+Epoch 1: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 27.83
+Epoch 2: Valid 25.29
+Epoch 2: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 27.85
+Epoch 3: Valid 25.29
+Epoch 3: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 23.85
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 26.89
+Epoch 1: Valid 25.29
+Epoch 1: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 25.35
+Epoch 2: Valid 24.92
+Epoch 2: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 25.90
+Epoch 3: Valid 25.29
+Epoch 3: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 24.75
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 26.76
+Epoch 1: Valid 25.29
+Epoch 1: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 28.18
+Epoch 2: Valid 24.92
+Epoch 2: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 26.70
+Epoch 3: Valid 25.29
+Epoch 3: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 24.06
+Epoch 0: Valid 25.29
+Epoch 0: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 26.97
+Epoch 1: Valid 25.29
+Epoch 1: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 27.83
+Epoch 2: Valid 25.29
+Epoch 2: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 27.83
+Epoch 3: Valid 25.29
+Epoch 3: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 0: Train 23.96
+Epoch 0: Valid 24.92
+Epoch 0: Best 24.92
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 1: Train 27.29
+Epoch 1: Valid 24.92
+Epoch 1: Best 24.92
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 2: Train 27.30
+Epoch 2: Valid 25.29
+Epoch 2: Best 25.29
+Training for models/vqa_lxmert_pruning_seed0
+Epoch 3: Train 29.16
+Epoch 3: Valid 27.68
+Epoch 3: Best 27.68
+Training for models/vqa_lxmert_pruning_seed0

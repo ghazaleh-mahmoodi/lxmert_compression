@@ -1,0 +1,8 @@
+============ Start pruning ============
+Pruning models/vqa_lxmert_finetuned_seed0/BEST.pth
+Initial score: 0.25292968749999994
+convert mask to high magnitude pruning.
+save mask in models/vqa_lxmert_pruning_seed0/High_Magnitude-50_percentage_mask.npz.
+Reset to initial weights based on the mask.
+accuarcy is 0.24160156249999998
+============ End of pruning ============

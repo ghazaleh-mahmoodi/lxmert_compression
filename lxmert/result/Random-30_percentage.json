@@ -1,0 +1,24 @@
+{
+    "pruning_result": {
+        "Initial score": 0.25292968749999994,
+        "Score after iteration 0": 0.25292968749999994,
+        "Score after iteration 1": 0.0,
+        "Score after iteration 2": 0.0,
+        "Score after iteration 3": 0.0,
+        "accuarcy after pruning": 0.0
+    },
+    "retrain_result": {
+        "Epoch 0 Train": 24.218749999999993,
+        "Epoch 0 Valid": 25.292968749999993,
+        "Epoch 0 Best": 25.292968749999993,
+        "Epoch 1 Train": 25.820312499999996,
+        "Epoch 1 Valid": 24.921875,
+        "Epoch 1 Best": 25.292968749999993,
+        "Epoch 2 Train": 27.8515625,
+        "Epoch 2 Valid": 25.292968749999993,
+        "Epoch 2 Best": 25.292968749999993,
+        "Epoch 3 Train": 27.83203125,
+        "Epoch 3 Valid": 25.292968749999993,
+        "Epoch 3 Best": 25.292968749999993
+    }
+}
