@@ -8,11 +8,11 @@
  برای حل مسئله‌های زبانی-بصری طراحی شده است. 
 \lr{LXMERT}
   یک شبکه عصبی از قبل آموزش دیده 
-\LTRfootnote{\lr{pretrain}}
+\LTRfootnote{\lr{pre-train}}
 از نوع ترنسفورمر می‌باشد که بر خلاف ترنسفورمرهای معمول از 3 رمزگذار
-\LTRfootnote{\lr{encoder}}
+\LTRfootnote{\lr{Encoder}}
  تشکیل می‌شود. در ادامه درباره معماری شبکه، ساختار رمزگذار و نحوه آموزش اولیه
- \LTRfootnote{\lr{pretrain}}
+ \LTRfootnote{\lr{pre-train}}
   شبکه توضیحاتی داده می‌شود \cite{tan2019lxmert}.
 
 
@@ -91,16 +91,16 @@
 بعد از لایه 
 \lr{embedding}
 برای هر کدام از ورودی‌های زبان و تصویر دو رمزگذار
-\LTRfootnote{\lr{encoder}}
-مجزا وجود دارد. محاسبات در این دو رمزگذار از یکدیگر مستقل هستند. هر رمزگذار شامل مکانیزم توجه
-\LTRfootnote{\lr{Attention}}
+\LTRfootnote{\lr{Encoder}}
+مجزا وجود دارد. محاسبات در این دو رمزگذار از یکدیگر مستقل هستند. هر رمزگذار شامل مکانیزم توجه به خود
+\LTRfootnote{\lr{self-attention}}
 و شبکه 
 \lr{Feed Forward}
 %\LTRfootnote{\lr{Feed Forward}}
 می‌باشد. همچنین بعد از هر زیر لایه اتصال رو به جلو
-\LTRfootnote{\lr{residual connection}}
+\LTRfootnote{\lr{Residual Connection}}
 و لایه نرمال‌سازی
-\LTRfootnote{\lr{normalization layer}}
+\LTRfootnote{\lr{Normalization Layer}}
  وجود دارد که با نماد "+" در شکل
 \ref{lxmert-single-encoder}
  نشان داده شده است.
@@ -113,18 +113,32 @@
 		\lr{LXMERT} \cite{tan2019lxmert}}
 	\label{lxmert-single-encoder}
 \end{figure}
+\newpage
 \subsubsection{رمزگذار
 	\lr{Cross-Modality}}
+برای به دست آوردن بازنمایی مشترک مابین تصویر و زبان استفاه می‌شود. این رمزگذار مشابه رمزگذار 
+\lr{Single-Modality}
+می‌باشد با این تفاوت که دارای
+\lr{cross attention}
+نیز می‌باشد (شکل \ref{lxmert-cross-encoder}).
 
+\begin{figure}[H]
+	\center{\includegraphics[width=0.5\linewidth]{images/cross-modal.PNG}}
+	\caption{رمزگذار 
+		\lr{Cross-Modality} 
+		در شبکه
+		\lr{LXMERT} \cite{tan2019lxmert}}
+	\label{lxmert-cross-encoder}
+\end{figure}
 \subsection{خروجی شبکه}
 خروجی شبکه
 \lr{LXMERT}
 از سه بخش تصویر، زبان و 
-\lr{cross-modality}
+\lr{Cross-Modality}
 تشکیل می‌شود. بخش زبان و تصویر توسط رمزگذار
 \lr{Cross-Modality}
 و با توجه به دنباله ورودی هر مورد تولید شده است. خروجی 
-\lr{cross-modality}
+\lr{Cross-Modality}
 از توکن 
 \lr{CLS}
 تشکیل شده و کاربردی همانند آنچه در 
@@ -186,7 +200,7 @@
 
 \subsubsection{\lr{Cross-Modality Task}}
 برای آموزش بهتر بخش 
-\lr{cross-modality}
+\lr{Cross-Modality}
 از دو روش دیگر نیز استفاده شده است.
 \begin{enumerate}
 	\item روش \lr{Cross-Modality Matching}

@@ -10,13 +10,13 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {5-1}{\ignorespaces معماری شبکه \lr {LXMERT} \cite {tan2019lxmert}}}{13}{figure.5.1}%
 \contentsline {figure}{\numberline {5-2}{\ignorespaces رمزگذار \lr {Single-Modality} در شبکه \lr {LXMERT} \cite {tan2019lxmert}}}{14}{figure.5.2}%
-\contentsline {figure}{\numberline {5-3}{\ignorespaces مثالی از آموزش اولیه شبکه \lr {LXMERT} \cite {tan2019lxmert}}}{15}{figure.5.3}%
-\contentsline {figure}{\numberline {5-4}{\ignorespaces نتایج شبکه \lr {LXMERT}\cite {tan2019lxmert}}}{17}{figure.5.4}%
+\contentsline {figure}{\numberline {5-3}{\ignorespaces رمزگذار \lr {Cross-Modality} در شبکه \lr {LXMERT} \cite {tan2019lxmert}}}{15}{figure.5.3}%
+\contentsline {figure}{\numberline {5-4}{\ignorespaces مثالی از آموزش اولیه شبکه \lr {LXMERT} \cite {tan2019lxmert}}}{16}{figure.5.4}%
+\contentsline {figure}{\numberline {5-5}{\ignorespaces نتایج شبکه \lr {LXMERT}\cite {tan2019lxmert}}}{17}{figure.5.5}%
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {6-1}{\ignorespaces نتایج حاصل از هرس اتصالات کم‌وزن}}{20}{figure.6.1}%
 \contentsline {figure}{\numberline {6-2}{\ignorespaces نتایج حاصل از هرس اتصالات به صورت رندوم}}{21}{figure.6.2}%
 \contentsline {figure}{\numberline {6-3}{\ignorespaces نتایج حاصل از هرس اتصالات با وزن زیاد}}{22}{figure.6.3}%
 \contentsline {figure}{\numberline {6-4}{\ignorespaces میزان مصرف \lr {GPU} }}{23}{figure.6.4}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7-1}{\ignorespaces نتایج دقیق انواع هرس به تفکیک درصد حذف اتصالات}}{25}{figure.7.1}%
-\contentsline {figure}{\numberline {7-2}{\ignorespaces نتایج انواع هرس به تفکیک درصد حذف اتصالات}}{26}{figure.7.2}%
+\contentsline {figure}{\numberline {7-1}{\ignorespaces نتایج انواع هرس به تفکیک درصد حذف اتصالات}}{26}{figure.7.1}%
