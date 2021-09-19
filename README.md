@@ -45,4 +45,4 @@ bash run/vqa_run.bash
 ***
 
 ### All Result Based on Pruning mode
-![alt text](./report/images/report.PNG)
+![alt text](./report/images/table.PNG)
