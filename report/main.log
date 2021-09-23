@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.3) (preloaded format=xelatex 2021.5.20)  23 SEP 2021 13:21
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.3) (preloaded format=xelatex 2021.5.20)  23 SEP 2021 17:34
 entering extended mode
 **./main.tex
 (main.tex
@@ -1075,10 +1075,66 @@ LaTeX Info: Redefining \nameref on input line 16.
 \openout4 = `main.out'.
 
  (faTitle.tex
+File: logo.pdf Graphic file (type pdf)
+<use logo.pdf>
+
+
+LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/b/n' undefined
+(Font)              using `TU/XBNiloofar.ttf(0)/bx/n' instead on input line 27.
+
+
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/bx/n' will be
+(Font)              scaled to size 14.4pt on input line 27.
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
+(Font)              scaled to size 24.88pt on input line 27.
+! Undefined control sequence.
+\firstPage ...ty } \vskip 1.5cm {\huge \titlefont 
+                                                  \@title }\par \vskip 5mm \...
+l.27 \firstPage
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/b/n' undefined
+(Font)              using `TU/XBNiloofar.ttf(0)/bx/n' instead on input line 27.
+
+
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
+(Font)              scaled to size 17.28pt on input line 27.
+
+LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/b/n' undefined
+(Font)              using `TU/XBNiloofar.ttf(0)/bx/n' instead on input line 27.
+
+
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/bx/n' will be
+(Font)              scaled to size 17.28pt on input line 27.
+
+LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/b/n' undefined
+(Font)              using `TU/XBNiloofar.ttf(0)/bx/n' instead on input line 27.
+
+
+[1
+
+]
 File: besm.jpg Graphic file (type bmp)
 <besm.jpg>
-LaTeX Font Info:    Trying to load font information for U+msa on input line 35.
+ [2]
+! Undefined control sequence.
+\davaranPage ...begin {center} {\Large \titlefont 
+                                                  تأییدیه‌ی هیأت داوران جلسه...
+l.29 \davaranPage
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
+LaTeX Font Info:    Trying to load font information for U+msa on input line 35.
 
 (C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1093,9 +1149,11 @@ Overfull \hbox (1.46632pt too wide) in paragraph at lines 37--37
 [][]|\TU/XBNiloofar.ttf(0)/bx/n/12 ردیف| []
  []
 
-[1
 
-]
+LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/m/sl' undefined
+(Font)              using `TU/XBNiloofar.ttf(0)/m/n' instead on input line 61.
+
+[1]
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/b/n' undefined
 (Font)              using `TU/XBNiloofar.ttf(0)/bx/n' instead on input line 61.
@@ -1124,9 +1182,6 @@ LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/b/n' undefined
 
 
 [2])
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 21.
-
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/b/n' undefined
 (Font)              using `TU/XBNiloofar.ttf(0)/bx/n' instead on input line 21.
@@ -1267,10 +1322,8 @@ LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/b/n' undefined
 (Font)              using `TU/XBNiloofar.ttf(0)/bx/n' instead on input line 43.
 
 
-
-LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/m/sl' undefined
-(Font)              using `TU/XBNiloofar.ttf(0)/m/n' instead on input line 44.
-
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/sl' will be
+(Font)              scaled to size 12.0pt on input line 44.
 [4]
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/b/n' undefined
@@ -1306,8 +1359,6 @@ LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/b/n' undefined
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/sl' will be
-(Font)              scaled to size 12.0pt on input line 21.
  [5]
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/b/n' undefined
@@ -1337,14 +1388,10 @@ LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/b/n' undefined
 LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/b/n' undefined
 (Font)              using `TU/XBNiloofar.ttf(0)/bx/n' instead on input line 3.
 
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 8.
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/b/n' undefined
 (Font)              using `TU/XBNiloofar.ttf(0)/bx/n' instead on input line 8.
 
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/bx/n' will be
-(Font)              scaled to size 17.28pt on input line 8.
 [1
 
 
@@ -1453,8 +1500,6 @@ LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/b/n' undefined
 (Font)              using `TU/XBNiloofar.ttf(0)/bx/n' instead on input line 102
 .
 
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/bx/n' will be
-(Font)              scaled to size 14.4pt on input line 102.
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/b/n' undefined
 (Font)              using `TU/XBNiloofar.ttf(0)/bx/n' instead on input line 108
@@ -1977,22 +2022,16 @@ AED: lastpage setting LastPage
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 1628A1E01CB128F42B309AB9D69036D0;9316
-(rerunfilecheck)             After:  F9D7C6497F8C900CE408D6E889FBE640;9316.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: F9D7C6497F8C900CE408D6E889FBE640;9316.
  ) 
 Here is how much of TeX's memory you used:
- 16305 strings out of 411578
- 301958 string characters out of 2834568
+ 16314 strings out of 411578
+ 302089 string characters out of 2834568
  748241 words of memory out of 3000000
- 35971 multiletter control sequences out of 15000+600000
+ 35980 multiletter control sequences out of 15000+600000
  410829 words of font info for 97 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  93i,13n,98p,1347b,548s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.pdf (46 pages).
+Output written on main.pdf (48 pages).
