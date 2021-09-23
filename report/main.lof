@@ -1,22 +1,23 @@
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {1-1}{\ignorespaces نمونه‌ای از کاربرد پرسش و پاسخ تصویری برای افراد کم‌بینا و نابینا \cite {gurari2018vizwiz}}}{2}{figure.1.1}%
+\contentsline {figure}{\numberline {1-2}{\ignorespaces نمونه‌ای از کاربرد پرسش و پاسخ تصویری در پزشکی \cite {ImageCLEFVQA-Med2019}}}{3}{figure.1.2}%
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {2-1}{\ignorespaces مقایسه شبکه \lr {MiniVLM} و شبکه \lr {OSCAR} \cite {wang2020minivlm}}}{7}{figure.2.1}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3-1}{\ignorespaces مقایسه شبکه \lr {MiniVLM} و شبکه \lr {OSCAR} \cite {wang2020minivlm}}}{6}{figure.3.1}%
+\contentsline {figure}{\numberline {3-1}{\ignorespaces چند نمونه از تصاویر حقیقی مجموعه داده \lr {VQA v1} به همراه سوالات و زیر مجموعه‌ای از پاسخ‌ها. پاسخ‌های سبز رنگ با نگاه به تصویر داده شده است. پاسخ آبی بدون نگاه به تصویر داده شده است. \cite {antol2015vqa}}}{10}{figure.3.1}%
+\contentsline {figure}{\numberline {3-2}{\ignorespaces چند نمونه از تصاویر انتزاعی مجموعه داده \lr {VQA v1} \cite {antol2015vqa}}}{10}{figure.3.2}%
+\contentsline {figure}{\numberline {3-3}{\ignorespaces نمونه‌ای سوالات چند گزینه‌ای برای یک تصویر در \lr {VQA v1} \cite {antol2015vqa}}}{11}{figure.3.3}%
+\contentsline {figure}{\numberline {3-4}{\ignorespaces چند نمونه از مجموعه داده \lr {VQA v2.0} \cite {balanced_vqa_v2}}}{12}{figure.3.4}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4-1}{\ignorespaces چند نمونه از تصاویر حقیقی مجموعه داده \lr {VQA v1} به همراه سوالات و زیر مجموعه‌ای از پاسخ‌ها. پاسخ‌های سبز رنگ با نگاه به تصویر داده شده است. پاسخ آبی بدون نگاه به تصویر داده شده است. \cite {antol2015vqa}}}{9}{figure.4.1}%
-\contentsline {figure}{\numberline {4-2}{\ignorespaces چند نمونه از تصاویر انتزاعی مجموعه داده \lr {VQA v1} \cite {antol2015vqa}}}{9}{figure.4.2}%
-\contentsline {figure}{\numberline {4-3}{\ignorespaces نمونه‌ای سوالات چند گزینه‌ای برای یک تصویر در \lr {VQA v1} \cite {antol2015vqa}}}{10}{figure.4.3}%
-\contentsline {figure}{\numberline {4-4}{\ignorespaces چند نمونه از مجموعه داده \lr {VQA v2.0} \cite {balanced_vqa_v2}}}{11}{figure.4.4}%
+\contentsline {figure}{\numberline {4-1}{\ignorespaces معماری شبکه \lr {LXMERT} \cite {tan2019lxmert}}}{14}{figure.4.1}%
+\contentsline {figure}{\numberline {4-2}{\ignorespaces رمزگذار \lr {Single-Modality} در شبکه \lr {LXMERT} \cite {tan2019lxmert}}}{16}{figure.4.2}%
+\contentsline {figure}{\numberline {4-3}{\ignorespaces رمزگذار \lr {Cross-Modality} در شبکه \lr {LXMERT} \cite {tan2019lxmert}}}{17}{figure.4.3}%
+\contentsline {figure}{\numberline {4-4}{\ignorespaces مثالی از آموزش اولیه شبکه \lr {LXMERT} \cite {tan2019lxmert}}}{18}{figure.4.4}%
+\contentsline {figure}{\numberline {4-5}{\ignorespaces نتایج شبکه \lr {LXMERT}\cite {tan2019lxmert}}}{19}{figure.4.5}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5-1}{\ignorespaces معماری شبکه \lr {LXMERT} \cite {tan2019lxmert}}}{13}{figure.5.1}%
-\contentsline {figure}{\numberline {5-2}{\ignorespaces رمزگذار \lr {Single-Modality} در شبکه \lr {LXMERT} \cite {tan2019lxmert}}}{14}{figure.5.2}%
-\contentsline {figure}{\numberline {5-3}{\ignorespaces رمزگذار \lr {Cross-Modality} در شبکه \lr {LXMERT} \cite {tan2019lxmert}}}{15}{figure.5.3}%
-\contentsline {figure}{\numberline {5-4}{\ignorespaces مثالی از آموزش اولیه شبکه \lr {LXMERT} \cite {tan2019lxmert}}}{16}{figure.5.4}%
-\contentsline {figure}{\numberline {5-5}{\ignorespaces نتایج شبکه \lr {LXMERT}\cite {tan2019lxmert}}}{17}{figure.5.5}%
+\contentsline {figure}{\numberline {5-1}{\ignorespaces نتایج حاصل از هرس اتصالات کم‌وزن}}{22}{figure.5.1}%
+\contentsline {figure}{\numberline {5-2}{\ignorespaces نتایج حاصل از هرس اتصالات به صورت تصاذفی}}{23}{figure.5.2}%
+\contentsline {figure}{\numberline {5-3}{\ignorespaces نتایج حاصل از هرس اتصالات با وزن زیاد}}{24}{figure.5.3}%
+\contentsline {figure}{\numberline {5-4}{\ignorespaces نتایج انواع هرس به تفکیک درصد حذف اتصالات}}{26}{figure.5.4}%
+\contentsline {figure}{\numberline {5-5}{\ignorespaces میزان مصرف \lr {GPU} }}{27}{figure.5.5}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6-1}{\ignorespaces نتایج حاصل از هرس اتصالات کم‌وزن}}{20}{figure.6.1}%
-\contentsline {figure}{\numberline {6-2}{\ignorespaces نتایج حاصل از هرس اتصالات به صورت رندوم}}{21}{figure.6.2}%
-\contentsline {figure}{\numberline {6-3}{\ignorespaces نتایج حاصل از هرس اتصالات با وزن زیاد}}{22}{figure.6.3}%
-\contentsline {figure}{\numberline {6-4}{\ignorespaces میزان مصرف \lr {GPU} }}{23}{figure.6.4}%
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {7-1}{\ignorespaces نتایج انواع هرس به تفکیک درصد حذف اتصالات}}{26}{figure.7.1}%

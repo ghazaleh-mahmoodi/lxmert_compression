@@ -16,6 +16,19 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
+\bibitem{ImageCLEFVQA-Med2019}
+\textsc{ {Ben Abacha}, A., Hasan, S.~A., Datla, V.~V., Liu, J., Demner-Fushman,
+  D., and M\"uller, H.}
+\newblock {VQA-Med}: Overview of the medical visual question answering task at
+  imageclef 2019.
+\newblock  in {\em CLEF2019 Working Notes\/} (Lugano, Switzerland, September
+  09-12 2019), {CEUR} Workshop Proceedings, CEUR-WS.org
+  $<$http://ceur-ws.org$>$.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
 \bibitem{chen2020uniter}
 \textsc{ Chen, Y.-C., Li, L., Yu, L., Kholy, A.~E., Ahmed, F., Gan, Z., Cheng,
   Y., and Liu, J.}
@@ -62,6 +75,16 @@
   understanding in {V}isual {Q}uestion {A}nswering.
 \newblock  in {\em Conference on Computer Vision and Pattern Recognition
   (CVPR)\/} (2017).
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{gurari2018vizwiz}
+\textsc{ Gurari, D., Li, Q., Stangl, A.~J., Guo, A., Lin, C., Grauman, K., Luo,
+  J., and Bigham, J.~P.}
+\newblock Vizwiz grand challenge: Answering visual questions from blind people,
+  2018.
 
 \end{LTRbibitems}
 

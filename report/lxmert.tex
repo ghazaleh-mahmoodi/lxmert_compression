@@ -81,11 +81,47 @@
 \lr{cross-attention}
 تشکیل شده است.
 
-\subsubsection{\lr{Attention Layers}}
-مشابه مکانیزم توجه
-\LTRfootnote{\lr{Attention}}
-در ترنسفورمر می‌باشد. توضیحات دقیق‌تر در بخش \ref{attention} داده شده است.
+\subsubsection{لایه توجه}
 
+\LTRfootnote{\lr{Attention}}
+بازیابی اطلاعات از بردارهای زمینه
+\LTRfootnote{\lr{Context Vector}}
+\lr{${y_j}$}
+در رابطه با بردار پرس‌وجو
+\LTRfootnote{\lr{Query Vector}}
+\lr{$x$}
+می‌باشد. ساز و کار توجه ابتدا امتیاز 
+\lr{$\alpha_j$}
+را بین بردار پرس‌وجو 
+\lr{$x$}
+و بردار زمینه
+\lr{$y_j$}
+محاسبه می‌کند.
+\begin{equation}
+	a_j = Score(x, y_j)
+\end{equation}
+\begin{equation}
+	\alpha_j = \frac{exp(a_j)}{\sum_{k} exp(a_k)}
+\end{equation}
+خروجی لایه توجه میانگین وزن‌دار امتیاز 
+\lr{$\alpha_j$}
+به ازای بردار‌های زمینه می‌باشد. محاسبات انجام شده مشابه لایه 
+\lr{softmax}
+است.
+\begin{equation}\label{self}
+	Att_{x \to \{y_j\}} = \sum_{j} \alpha_jy_j
+\end{equation}
+
+
+اگر بردار پرس‌وجو
+\lr{$x$}
+مجموعه‌ای از بردار زمینه
+\lr{$\{y_j\}$}
+باشد، امتیاز به دست آمده از معادله
+\ref{self}
+توجه به خود\LTRfootnote{\lr{self-attention}}
+نامیده می‌شود.
+\newpage
 \subsubsection{رمزگذار
 	\lr{Single-Modality}}
 بعد از لایه 
@@ -162,7 +198,8 @@
 	 \lr{LXMERT} \cite{tan2019lxmert}}
 	\label{lxmert-pretrain}
 \end{figure}
-\subsubsection{\lr{Language Task: Masked Cross-Modality LM }}
+\subsubsection{وظیفه زبانی:
+	\lr{Masked Cross-Modality LM }}
 در این روش همچون روشی که در شبکه
 \lr{BERT}
 استفاده شده، پانزده درصد توکن‌های ورودی با توکن
@@ -189,7 +226,8 @@
 وجود تصویر در تشخیص درست شبکه برای کلمه 
 \lr{Mask}
 شده از اهمیت بالایی برخوردار است.
-\subsubsection{\lr{Vision Task: Masked Object Prediction}}
+\subsubsection{وظیفه بصری:
+	\lr{Masked Object Prediction}}
 مشابه قسمت زبانی، در این قسمت نیز بخشی از ویژگی ورودی تصویر
 \lr{Mask}
 می‌شود و شبکه به کمک جمله مرتبط با تصویر و سایر ویژگی‌های تصویر که
@@ -198,7 +236,8 @@
 \lr{cross-modality alignment}
 را نیز فرا می‌گیرد. 
 
-\subsubsection{\lr{Cross-Modality Task}}
+\subsubsection{وظیفه
+	\lr{Cross-Modality}}
 برای آموزش بهتر بخش 
 \lr{Cross-Modality}
 از دو روش دیگر نیز استفاده شده است.
