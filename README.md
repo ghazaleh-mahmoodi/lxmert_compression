@@ -5,7 +5,7 @@ This project implementation is built on the great repo of [LXMERT](https://githu
 
 **Slides of project representation are available [here](https://github.com/ghazaleh-mahmoodi/lxmert_compression/blob/main/BS_FinalProject_Presentation.pdf) ([Google Docs](https://docs.google.com/presentation/d/156CAv8Zpmc-XrgZtH6hOLUKT4LKQS9YmIdAWiaOAEFY/edit?usp=sharing)).**
 
-**Abstract Paper Accepted in [WeCNLP](https://www.wecnlp.ai/wecnlp-2021/posters) is available [here](https://github.com/ghazaleh-mahmoodi/lxmert_compression/blob/main/WeCNLP_VQA.pdf).**
+**Abstract Paper Accepted in [WeCNLP](https://www.wecnlp.ai/wecnlp-2021/posters) is available [here](https://github.com/ghazaleh-mahmoodi/lxmert_compression/blob/main/WeCNLP_VQA.pdf) ([poster](https://drive.google.com/file/d/1IT96szMhA4ZuP9pBIBaBWhzppcmQkcFI/view), [video](https://youtu.be/ilfXHaucQiM?si=OYBhlZLG8PNkgngq)).**
 
 # Visual Question Answering Usage
 ## Medical Visual Question Answering
