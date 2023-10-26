@@ -5,7 +5,7 @@ This project implementation is built on the great repo of [LXMERT](https://githu
 
 **Slides of project representation are available [here](https://github.com/ghazaleh-mahmoodi/lxmert_compression/blob/main/BS_FinalProject_Presentation.pdf) ([Google Docs](https://docs.google.com/presentation/d/156CAv8Zpmc-XrgZtH6hOLUKT4LKQS9YmIdAWiaOAEFY/edit?usp=sharing)).**
 
-**Abstract Paper Accepted in [WeCNLP](https://www.wecnlp.ai/wecnlp-2021/posters) is available [here](https://github.com/ghazaleh-mahmoodi/lxmert_compression/blob/main/WeCNLP_VQA.pdf) ([poster](https://drive.google.com/file/d/1IT96szMhA4ZuP9pBIBaBWhzppcmQkcFI/view), [video](https://youtu.be/ilfXHaucQiM?si=OYBhlZLG8PNkgngq)).**
+**Abstract Paper Accepted in [WeCNLP](https://www.wecnlp.ai/wecnlp-2021/posters) is available [here](https://github.com/ghazaleh-mahmoodi/lxmert_compression/blob/main/WeCNLP_VQA.pdf) ([paper](https://arxiv.org/abs/2310.15325), [poster](https://drive.google.com/file/d/1IT96szMhA4ZuP9pBIBaBWhzppcmQkcFI/view), [video](https://youtu.be/ilfXHaucQiM?si=OYBhlZLG8PNkgngq)).**
 
 # Visual Question Answering Usage
 ## Medical Visual Question Answering
@@ -58,3 +58,15 @@ bash run/vqa_run.bash
 
 ### All Result Based on Pruning mode
 ![alt text](./report/images/table.PNG)
+
+## Citation
+```bash
+@misc{hashemi2023lxmert,
+      title={LXMERT Model Compression for Visual Question Answering}, 
+      author={Maryam Hashemi and Ghazaleh Mahmoudi and Sara Kodeiri and Hadi Sheikhi and Sauleh Eetemadi},
+      year={2023},
+      eprint={2310.15325},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
