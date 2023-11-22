@@ -1,7 +1,7 @@
 # LXMERT Model Compression for Visual Question Answering
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/lxmert-model-compression-for-visual-question/visual-question-answering-on-vqa-v2-test-std-1)](https://paperswithcode.com/sota/visual-question-answering-on-vqa-v2-test-std-1?p=lxmert-model-compression-for-visual-question)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/lxmert-model-compression-for-visual-question/visual-question-answering-on-vqa-v2-test-dev-1)](https://paperswithcode.com/sota/visual-question-answering-on-vqa-v2-test-dev-1?p=lxmert-model-compression-for-visual-question)
-[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)]([https://arxiv.org/abs/1234.56789](https://arxiv.org/pdf/2310.15325.pdf))
+[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg?style=plastic)](https://arxiv.org/pdf/2310.15325.pdf)
 
 This project implementation is built on the great repo of [LXMERT](https://github.com/airsplay/lxmert) and PyTorch code for the EMNLP 2019 paper ["LXMERT: Learning Cross-Modality Encoder Representations from Transformers"](https://arxiv.org/abs/1908.07490) on VQA v2.0.
 
